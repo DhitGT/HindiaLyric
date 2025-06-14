@@ -1,527 +1,248 @@
 {
-  "text": " Bapak lalu di luar Kekuk di luar Kekuk di luar Kekuk di luar Brava harga satupi Brava banyak yang kau rapat Sova lu samu Ari sita jerih waranguk te Brava harga tebusan Brava banyak dari kami yang mengengdankan Angkau lakukan ini berulang kali Laku vulga Cetan yang kau balik diku Brava harga yang patin Gap-gap banyak dari kami yang sadar Kau lakukan ini karena sesuatu Kau lakukan ini karena sesuatu Di kolar dammu Di masa lu Aku langkah lu Brava harga yang patin Gap-gap besar Rua hati kuyang sadar Di dok-muta sebering tu diriku Semoga aku Menatakanah Aku langkah lu Brava harga duaman nusia Berapa besar tekanan batin dari kedua Bawa bihak orang tua Brava harga silah ke tiga Terakhir gua denger hanya Beru aku duk mereka yang tak menyukai sesama Brava harga yang patin Brava banyak dari kami yang sadar Kau lakukan ini dari dalam hati Tak terbayangkan besar berbandung Aku jakau Brava harga yang patin Brava besar rua hati kuyang sadar Di dok-muta sebering tu diriku Semoga aku Menatakanah Aku jakau Brava harga Aku jakau Aku jakau Aku jakau Aku jakau Semoga aku Menatakanah Aku jakau",
+  "text": " Intro Berapa harga satu P.O? Berapa banyak yang kau dapat sebelum semua disita jadi barang bukti? Berapa harga tebusan? Berapa banyak dari kami yang enggan karena kau lakukan ini berulang kali? Lalu ku berkaca tanya kau bagaimana itu? Berapa harga empati? Berapa banyak dari kami yang sadar kau lakukan ini karena sesuatu? Di keluarga mu di masa lalu aku tak tahu Berapa harga empati? Berapa besar ruang hatiku yang sadar hidupmu tak seberintung diriku? Semoga aku menampak tanah Aku tak tahu Berapa harga dua manusia? Berapa besar tekanan batin dari kedua belah pihak orang tua? Berapa harga sila ketiga? Terakhir ku dengar hanya berlaku untuk mereka yang tak menyukai sesama Oh... Berapa harga empati? Berapa banyak dari kami yang sadar kau lakukan ini dari dalam hati? Tak terbayangkan besar bebanmu Berapa harga empati? Berapa harga empati? Berapa besar ruang hatiku yang sadar hidupmu tak seberintung diriku? Semoga aku menampak tanah Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Semoga aku menampak tanah Aku tak tahu",
   "segments": [
     {
       "id": 0,
       "seek": 0,
-      "start": 0.0,
-      "end": 1.48,
-      "text": " Bapak lalu di luar",
+      "start": 1.0799999999999974,
+      "end": 1.96,
+      "text": " Intro",
       "tokens": [
-        50364,
-        363,
-        569,
-        514,
-        287,
-        4929,
-        1026,
-        10438,
-        289,
-        50464
+        50365,
+        47406,
+        50405
       ],
-      "temperature": 0.4,
-      "avg_logprob": -0.8615798950195312,
-      "compression_ratio": 1.9484536082474226,
-      "no_speech_prob": 0.3842204511165619,
+      "temperature": 0.0,
+      "avg_logprob": -0.2823476791381836,
+      "compression_ratio": 1.1022727272727273,
+      "no_speech_prob": 0.052772458642721176,
       "words": [
         {
-          "word": " Bapak",
-          "start": 0.0,
-          "end": 0.6,
-          "probability": 0.31387994686762494
-        },
-        {
-          "word": " lalu",
-          "start": 0.6,
-          "end": 0.6,
-          "probability": 0.07555818068794906
-        },
-        {
-          "word": " di",
-          "start": 0.6,
-          "end": 1.04,
-          "probability": 0.039226043969392776
-        },
-        {
-          "word": " luar",
-          "start": 1.04,
-          "end": 1.48,
-          "probability": 0.49160822853446007
+          "word": " Intro",
+          "start": 1.0799999999999974,
+          "end": 1.96,
+          "probability": 0.19114789366722107
         }
       ]
     },
     {
       "id": 1,
       "seek": 0,
-      "start": 1.48,
-      "end": 1.48,
-      "text": "",
-      "tokens": [],
-      "temperature": 0.4,
-      "avg_logprob": -0.8615798950195312,
-      "compression_ratio": 1.9484536082474226,
-      "no_speech_prob": 0.3842204511165619,
-      "words": []
+      "start": 14.819999999999997,
+      "end": 17.26,
+      "text": " Berapa harga satu P.O?",
+      "tokens": [
+        50405,
+        5637,
+        7961,
+        2233,
+        3680,
+        27679,
+        430,
+        13,
+        46,
+        30,
+        51233
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2823476791381836,
+      "compression_ratio": 1.1022727272727273,
+      "no_speech_prob": 0.052772458642721176,
+      "words": [
+        {
+          "word": " Berapa",
+          "start": 14.819999999999997,
+          "end": 15.7,
+          "probability": 0.9975235760211945
+        },
+        {
+          "word": " harga",
+          "start": 15.7,
+          "end": 16.28,
+          "probability": 0.9968619048595428
+        },
+        {
+          "word": " satu",
+          "start": 16.28,
+          "end": 16.56,
+          "probability": 0.959306538105011
+        },
+        {
+          "word": " P",
+          "start": 16.56,
+          "end": 16.82,
+          "probability": 0.449069082736969
+        },
+        {
+          "word": ".O?",
+          "start": 16.82,
+          "end": 17.26,
+          "probability": 0.8761660158634186
+        }
+      ]
     },
     {
       "id": 2,
       "seek": 0,
-      "start": 1.48,
-      "end": 3.88,
-      "text": " Kekuk di luar",
+      "start": 17.58,
+      "end": 23.78,
+      "text": " Berapa banyak yang kau dapat sebelum semua disita jadi barang bukti?",
       "tokens": [
-        50564,
-        591,
-        916,
-        2034,
-        1026,
-        10438,
-        289,
-        50664
+        51264,
+        5637,
+        7961,
+        25808,
+        5581,
+        36273,
+        35161,
+        46122,
+        449,
+        28195,
+        717,
+        2786,
+        19399,
+        2159,
+        656,
+        758,
+        2320,
+        72,
+        30,
+        51564
       ],
-      "temperature": 0.4,
-      "avg_logprob": -0.8615798950195312,
-      "compression_ratio": 1.9484536082474226,
-      "no_speech_prob": 0.3842204511165619,
+      "temperature": 0.0,
+      "avg_logprob": -0.2823476791381836,
+      "compression_ratio": 1.1022727272727273,
+      "no_speech_prob": 0.052772458642721176,
       "words": [
         {
-          "word": " Kekuk",
-          "start": 1.48,
-          "end": 1.9,
-          "probability": 0.7023069262504578
+          "word": " Berapa",
+          "start": 17.58,
+          "end": 18.46,
+          "probability": 0.9999509453773499
         },
         {
-          "word": " di",
-          "start": 1.9,
-          "end": 3.88,
-          "probability": 0.7581350803375244
+          "word": " banyak",
+          "start": 18.46,
+          "end": 18.98,
+          "probability": 0.9999715089797974
         },
         {
-          "word": " luar",
-          "start": 3.88,
-          "end": 3.88,
-          "probability": 0.9251936972141266
+          "word": " yang",
+          "start": 18.98,
+          "end": 19.28,
+          "probability": 0.9999887943267822
+        },
+        {
+          "word": " kau",
+          "start": 19.28,
+          "end": 19.48,
+          "probability": 0.9979463219642639
+        },
+        {
+          "word": " dapat",
+          "start": 19.48,
+          "end": 19.8,
+          "probability": 0.9972543120384216
+        },
+        {
+          "word": " sebelum",
+          "start": 19.8,
+          "end": 20.7,
+          "probability": 0.8919186294078827
+        },
+        {
+          "word": " semua",
+          "start": 20.7,
+          "end": 20.88,
+          "probability": 0.9518319368362427
+        },
+        {
+          "word": " disita",
+          "start": 20.88,
+          "end": 21.9,
+          "probability": 0.836837112903595
+        },
+        {
+          "word": " jadi",
+          "start": 21.9,
+          "end": 22.26,
+          "probability": 0.9872774481773376
+        },
+        {
+          "word": " barang",
+          "start": 22.26,
+          "end": 23.02,
+          "probability": 0.9816815257072449
+        },
+        {
+          "word": " bukti?",
+          "start": 23.02,
+          "end": 23.78,
+          "probability": 0.9993980328241984
         }
       ]
     },
     {
       "id": 3,
-      "seek": 0,
-      "start": 3.88,
-      "end": 3.88,
-      "text": "",
-      "tokens": [],
-      "temperature": 0.4,
-      "avg_logprob": -0.8615798950195312,
-      "compression_ratio": 1.9484536082474226,
-      "no_speech_prob": 0.3842204511165619,
-      "words": []
-    },
-    {
-      "id": 4,
-      "seek": 0,
-      "start": 3.88,
-      "end": 5.3,
-      "text": " Kekuk di luar",
+      "seek": 3000,
+      "start": 30.0,
+      "end": 32.16,
+      "text": " Berapa harga tebusan?",
       "tokens": [
-        50764,
-        591,
-        916,
-        2034,
-        1026,
-        10438,
-        289,
-        50864
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.8615798950195312,
-      "compression_ratio": 1.9484536082474226,
-      "no_speech_prob": 0.3842204511165619,
-      "words": [
-        {
-          "word": " Kekuk",
-          "start": 3.88,
-          "end": 3.88,
-          "probability": 0.8914007345835367
-        },
-        {
-          "word": " di",
-          "start": 3.88,
-          "end": 5.3,
-          "probability": 0.9669886231422424
-        },
-        {
-          "word": " luar",
-          "start": 5.3,
-          "end": 5.3,
-          "probability": 0.988043874502182
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "seek": 0,
-      "start": 5.3,
-      "end": 5.3,
-      "text": "",
-      "tokens": [],
-      "temperature": 0.4,
-      "avg_logprob": -0.8615798950195312,
-      "compression_ratio": 1.9484536082474226,
-      "no_speech_prob": 0.3842204511165619,
-      "words": []
-    },
-    {
-      "id": 6,
-      "seek": 0,
-      "start": 5.3,
-      "end": 14.0,
-      "text": " Kekuk di luar",
-      "tokens": [
-        50964,
-        591,
-        916,
-        2034,
-        1026,
-        10438,
-        289,
-        51064
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.8615798950195312,
-      "compression_ratio": 1.9484536082474226,
-      "no_speech_prob": 0.3842204511165619,
-      "words": [
-        {
-          "word": " Kekuk",
-          "start": 5.3,
-          "end": 5.3,
-          "probability": 0.9192454814910889
-        },
-        {
-          "word": " di",
-          "start": 5.3,
-          "end": 6.24,
-          "probability": 0.9736151695251465
-        },
-        {
-          "word": " luar",
-          "start": 6.24,
-          "end": 14.0,
-          "probability": 0.989014208316803
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "seek": 0,
-      "start": 15.4,
-      "end": 17.12,
-      "text": " Brava harga satupi",
-      "tokens": [
-        51114,
-        4991,
-        2757,
-        2233,
-        3680,
-        3227,
-        1010,
-        72,
-        51264
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.8615798950195312,
-      "compression_ratio": 1.9484536082474226,
-      "no_speech_prob": 0.3842204511165619,
-      "words": [
-        {
-          "word": " Brava",
-          "start": 15.4,
-          "end": 15.78,
-          "probability": 0.23252018927996687
-        },
-        {
-          "word": " harga",
-          "start": 15.78,
-          "end": 16.24,
-          "probability": 0.7269551455974579
-        },
-        {
-          "word": " satupi",
-          "start": 16.24,
-          "end": 17.12,
-          "probability": 0.30062151948610943
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "seek": 0,
-      "start": 18.0,
-      "end": 20.04,
-      "text": " Brava banyak yang kau rapat",
-      "tokens": [
-        51264,
-        4991,
-        2757,
-        25808,
-        5581,
-        36273,
-        5099,
-        267,
-        51364
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.8615798950195312,
-      "compression_ratio": 1.9484536082474226,
-      "no_speech_prob": 0.3842204511165619,
-      "words": [
-        {
-          "word": " Brava",
-          "start": 18.0,
-          "end": 18.58,
-          "probability": 0.4912300257556126
-        },
-        {
-          "word": " banyak",
-          "start": 18.58,
-          "end": 19.04,
-          "probability": 0.08426795154809952
-        },
-        {
-          "word": " yang",
-          "start": 19.04,
-          "end": 19.3,
-          "probability": 0.969617486000061
-        },
-        {
-          "word": " kau",
-          "start": 19.3,
-          "end": 19.62,
-          "probability": 0.42031431198120117
-        },
-        {
-          "word": " rapat",
-          "start": 19.62,
-          "end": 20.04,
-          "probability": 0.8264040946960449
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "seek": 0,
-      "start": 20.04,
-      "end": 21.18,
-      "text": " Sova lu samu",
-      "tokens": [
-        51364,
-        407,
-        2757,
-        10438,
-        3247,
-        84,
-        51414
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.8615798950195312,
-      "compression_ratio": 1.9484536082474226,
-      "no_speech_prob": 0.3842204511165619,
-      "words": [
-        {
-          "word": " Sova",
-          "start": 20.04,
-          "end": 20.44,
-          "probability": 0.1940508782863617
-        },
-        {
-          "word": " lu",
-          "start": 20.44,
-          "end": 20.68,
-          "probability": 0.12312695384025574
-        },
-        {
-          "word": " samu",
-          "start": 20.68,
-          "end": 21.18,
-          "probability": 0.20736032351851463
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "seek": 0,
-      "start": 21.18,
-      "end": 23.64,
-      "text": " Ari sita jerih waranguk te",
-      "tokens": [
-        51414,
-        316,
-        470,
-        1394,
-        64,
-        20160,
-        4247,
-        1516,
-        656,
-        2034,
-        535,
-        51564
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.8615798950195312,
-      "compression_ratio": 1.9484536082474226,
-      "no_speech_prob": 0.3842204511165619,
-      "words": [
-        {
-          "word": " Ari",
-          "start": 21.18,
-          "end": 21.58,
-          "probability": 0.1116072479635477
-        },
-        {
-          "word": " sita",
-          "start": 21.58,
-          "end": 22.16,
-          "probability": 0.12320493906736374
-        },
-        {
-          "word": " jerih",
-          "start": 22.16,
-          "end": 22.62,
-          "probability": 0.29962077736854553
-        },
-        {
-          "word": " waranguk",
-          "start": 22.62,
-          "end": 23.3,
-          "probability": 0.4672615925470988
-        },
-        {
-          "word": " te",
-          "start": 23.3,
-          "end": 23.64,
-          "probability": 0.0994005799293518
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "seek": 2364,
-      "start": 29.720000000000002,
-      "end": 32.5,
-      "text": " Brava harga tebusan",
-      "tokens": [
-        50364,
-        4991,
-        2757,
+        50365,
+        5637,
+        7961,
         2233,
         3680,
         535,
         21441,
         282,
-        50464
+        30,
+        50482
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.5264451415450485,
-      "compression_ratio": 2.00709219858156,
-      "no_speech_prob": 0.5240870714187622,
+      "avg_logprob": -0.26210804199904536,
+      "compression_ratio": 1.778523489932886,
+      "no_speech_prob": 0.0058235349133610725,
       "words": [
         {
-          "word": " Brava",
-          "start": 29.720000000000002,
-          "end": 30.78,
-          "probability": 0.35465806908905506
+          "word": " Berapa",
+          "start": 30.0,
+          "end": 30.7,
+          "probability": 0.9463078081607819
         },
         {
           "word": " harga",
-          "start": 30.78,
-          "end": 31.24,
-          "probability": 0.9586424231529236
+          "start": 30.7,
+          "end": 31.26,
+          "probability": 0.9892700910568237
         },
         {
-          "word": " tebusan",
-          "start": 31.24,
-          "end": 32.5,
-          "probability": 0.597369909286499
+          "word": " tebusan?",
+          "start": 31.26,
+          "end": 32.16,
+          "probability": 0.9894552429517111
         }
       ]
     },
     {
-      "id": 12,
-      "seek": 2364,
-      "start": 32.5,
-      "end": 35.9,
-      "text": " Brava banyak dari kami yang mengengdankan",
+      "id": 4,
+      "seek": 3000,
+      "start": 33.2,
+      "end": 38.26,
+      "text": " Berapa banyak dari kami yang enggan karena kau lakukan ini berulang kali?",
       "tokens": [
-        50464,
-        4991,
-        2757,
+        50525,
+        5637,
+        7961,
         25808,
         15597,
         34502,
         5581,
-        15330,
-        1501,
-        67,
-        657,
-        282,
-        50564
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5264451415450485,
-      "compression_ratio": 2.00709219858156,
-      "no_speech_prob": 0.5240870714187622,
-      "words": [
-        {
-          "word": " Brava",
-          "start": 32.5,
-          "end": 33.6,
-          "probability": 0.8600205779075623
-        },
-        {
-          "word": " banyak",
-          "start": 33.6,
-          "end": 34.04,
-          "probability": 0.9942017197608948
-        },
-        {
-          "word": " dari",
-          "start": 34.04,
-          "end": 34.5,
-          "probability": 0.9855799674987793
-        },
-        {
-          "word": " kami",
-          "start": 34.5,
-          "end": 35.0,
-          "probability": 0.9582912921905518
-        },
-        {
-          "word": " yang",
-          "start": 35.0,
-          "end": 35.32,
-          "probability": 0.7650831937789917
-        },
-        {
-          "word": " mengengdankan",
-          "start": 35.32,
-          "end": 35.9,
-          "probability": 0.2987799495458603
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "seek": 2364,
-      "start": 35.9,
-      "end": 38.64,
-      "text": " Angkau lakukan ini berulang kali",
-      "tokens": [
-        50564,
-        4521,
-        74,
-        1459,
+        1741,
+        1275,
+        27173,
+        36273,
         287,
         42774,
         7408,
@@ -529,854 +250,669 @@
         425,
         656,
         41690,
-        50664
+        30,
+        50808
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.5264451415450485,
-      "compression_ratio": 2.00709219858156,
-      "no_speech_prob": 0.5240870714187622,
+      "avg_logprob": -0.26210804199904536,
+      "compression_ratio": 1.778523489932886,
+      "no_speech_prob": 0.0058235349133610725,
       "words": [
         {
-          "word": " Angkau",
-          "start": 35.9,
-          "end": 36.46,
-          "probability": 0.21370724712808928
+          "word": " Berapa",
+          "start": 32.949999999999996,
+          "end": 33.48,
+          "probability": 0.9961419999599457
         },
         {
-          "word": " lakukan",
-          "start": 36.46,
-          "end": 36.98,
-          "probability": 0.7509107887744904
+          "word": " banyak",
+          "start": 33.48,
+          "end": 33.96,
+          "probability": 0.9980924725532532
         },
         {
-          "word": " ini",
-          "start": 36.98,
-          "end": 37.52,
-          "probability": 0.9254230260848999
+          "word": " dari",
+          "start": 33.96,
+          "end": 34.3,
+          "probability": 0.9963428378105164
         },
         {
-          "word": " berulang",
-          "start": 37.52,
-          "end": 38.12,
-          "probability": 0.5897677491108576
-        },
-        {
-          "word": " kali",
-          "start": 38.12,
-          "end": 38.64,
-          "probability": 0.9045578241348267
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "seek": 2364,
-      "start": 38.64,
-      "end": 41.52,
-      "text": " Laku vulga",
-      "tokens": [
-        50664,
-        441,
-        15803,
-        7452,
-        3680,
-        50814
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5264451415450485,
-      "compression_ratio": 2.00709219858156,
-      "no_speech_prob": 0.5240870714187622,
-      "words": [
-        {
-          "word": " Laku",
-          "start": 38.64,
-          "end": 40.34,
-          "probability": 0.10069747548550367
-        },
-        {
-          "word": " vulga",
-          "start": 40.34,
-          "end": 41.52,
-          "probability": 0.42565765604376793
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "seek": 2364,
-      "start": 41.52,
-      "end": 45.14,
-      "text": " Cetan yang kau balik diku",
-      "tokens": [
-        50814,
-        383,
-        302,
-        282,
-        5581,
-        36273,
-        3119,
-        1035,
-        1026,
-        5279,
-        50914
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5264451415450485,
-      "compression_ratio": 2.00709219858156,
-      "no_speech_prob": 0.5240870714187622,
-      "words": [
-        {
-          "word": " Cetan",
-          "start": 41.52,
-          "end": 42.46,
-          "probability": 0.2809661068022251
+          "word": " kami",
+          "start": 34.3,
+          "end": 34.84,
+          "probability": 0.9975282549858093
         },
         {
           "word": " yang",
-          "start": 42.46,
-          "end": 42.82,
-          "probability": 0.22727753221988678
+          "start": 34.84,
+          "end": 35.24,
+          "probability": 0.9861074686050415
+        },
+        {
+          "word": " enggan",
+          "start": 35.24,
+          "end": 35.64,
+          "probability": 0.9847492873668671
+        },
+        {
+          "word": " karena",
+          "start": 35.64,
+          "end": 35.94,
+          "probability": 0.27914145588874817
         },
         {
           "word": " kau",
-          "start": 42.82,
-          "end": 43.38,
-          "probability": 0.6181674003601074
+          "start": 35.94,
+          "end": 36.38,
+          "probability": 0.9872936010360718
         },
         {
-          "word": " balik",
-          "start": 43.38,
-          "end": 44.3,
-          "probability": 0.4016961380839348
+          "word": " lakukan",
+          "start": 36.38,
+          "end": 36.94,
+          "probability": 0.9967146217823029
         },
         {
-          "word": " diku",
-          "start": 44.3,
-          "end": 45.14,
-          "probability": 0.4483163505792618
+          "word": " ini",
+          "start": 36.94,
+          "end": 37.46,
+          "probability": 0.9976166486740112
+        },
+        {
+          "word": " berulang",
+          "start": 37.46,
+          "end": 38.02,
+          "probability": 0.9972725113232931
+        },
+        {
+          "word": " kali?",
+          "start": 38.02,
+          "end": 38.26,
+          "probability": 0.9839233756065369
         }
       ]
     },
     {
-      "id": 16,
-      "seek": 2364,
-      "start": 45.14,
-      "end": 47.54,
-      "text": " Brava harga yang patin",
+      "id": 5,
+      "seek": 3000,
+      "start": 39.78,
+      "end": 44.88,
+      "text": " Lalu ku berkaca tanya kau bagaimana itu?",
       "tokens": [
-        50914,
-        4991,
-        2757,
-        2233,
-        3680,
-        5581,
-        1947,
-        259,
-        51064
+        50854,
+        441,
+        4929,
+        17807,
+        5948,
+        74,
+        6628,
+        256,
+        8791,
+        36273,
+        3411,
+        64,
+        36497,
+        9032,
+        30,
+        51118
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.5264451415450485,
-      "compression_ratio": 2.00709219858156,
-      "no_speech_prob": 0.5240870714187622,
+      "avg_logprob": -0.26210804199904536,
+      "compression_ratio": 1.778523489932886,
+      "no_speech_prob": 0.0058235349133610725,
       "words": [
         {
-          "word": " Brava",
+          "word": " Lalu",
+          "start": 39.55,
+          "end": 40.08,
+          "probability": 0.903314083814621
+        },
+        {
+          "word": " ku",
+          "start": 40.08,
+          "end": 40.42,
+          "probability": 0.86683189868927
+        },
+        {
+          "word": " berkaca",
+          "start": 40.42,
+          "end": 41.84,
+          "probability": 0.8568507234255472
+        },
+        {
+          "word": " tanya",
+          "start": 41.84,
+          "end": 42.78,
+          "probability": 0.6634221076965332
+        },
+        {
+          "word": " kau",
+          "start": 42.78,
+          "end": 43.16,
+          "probability": 0.5157707929611206
+        },
+        {
+          "word": " bagaimana",
+          "start": 43.16,
+          "end": 44.3,
+          "probability": 0.7116562724113464
+        },
+        {
+          "word": " itu?",
+          "start": 44.3,
+          "end": 44.88,
+          "probability": 0.46062126755714417
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 3000,
+      "start": 45.14,
+      "end": 46.94,
+      "text": " Berapa harga empati?",
+      "tokens": [
+        51136,
+        5637,
+        7961,
+        2233,
+        3680,
+        4012,
+        6908,
+        30,
+        51216
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26210804199904536,
+      "compression_ratio": 1.778523489932886,
+      "no_speech_prob": 0.0058235349133610725,
+      "words": [
+        {
+          "word": " Berapa",
           "start": 45.14,
-          "end": 45.82,
-          "probability": 0.9042766094207764
+          "end": 45.64,
+          "probability": 0.9975432753562927
         },
         {
           "word": " harga",
-          "start": 45.82,
-          "end": 46.26,
-          "probability": 0.7713401913642883
+          "start": 45.64,
+          "end": 46.28,
+          "probability": 0.9981338381767273
         },
         {
-          "word": " yang",
-          "start": 46.26,
-          "end": 46.54,
-          "probability": 0.8295095562934875
-        },
-        {
-          "word": " patin",
-          "start": 46.54,
-          "end": 47.54,
-          "probability": 0.5992351174354553
+          "word": " empati?",
+          "start": 46.28,
+          "end": 46.94,
+          "probability": 0.92018261551857
         }
       ]
     },
     {
-      "id": 17,
-      "seek": 2364,
-      "start": 47.54,
-      "end": 50.78,
-      "text": " Gap-gap banyak dari kami yang sadar",
+      "id": 7,
+      "seek": 3000,
+      "start": 48.2,
+      "end": 53.4,
+      "text": " Berapa banyak dari kami yang sadar kau lakukan ini karena sesuatu?",
       "tokens": [
-        51064,
-        460,
-        569,
-        12,
-        70,
-        569,
+        51275,
+        5637,
+        7961,
         25808,
         15597,
         34502,
         5581,
         4227,
         289,
-        51214
+        36273,
+        287,
+        42774,
+        7408,
+        27173,
+        5385,
+        84,
+        20546,
+        30,
+        51547
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.5264451415450485,
-      "compression_ratio": 2.00709219858156,
-      "no_speech_prob": 0.5240870714187622,
+      "avg_logprob": -0.26210804199904536,
+      "compression_ratio": 1.778523489932886,
+      "no_speech_prob": 0.0058235349133610725,
       "words": [
         {
-          "word": " Gap",
-          "start": 47.54,
-          "end": 48.52,
-          "probability": 0.4115304499864578
-        },
-        {
-          "word": "-gap",
-          "start": 48.52,
-          "end": 48.74,
-          "probability": 0.7299157977104187
+          "word": " Berapa",
+          "start": 47.949999999999996,
+          "end": 48.48,
+          "probability": 0.9991037845611572
         },
         {
           "word": " banyak",
-          "start": 48.74,
-          "end": 49.06,
-          "probability": 0.9914645552635193
+          "start": 48.48,
+          "end": 48.98,
+          "probability": 0.9997267127037048
         },
         {
           "word": " dari",
-          "start": 49.06,
-          "end": 49.48,
-          "probability": 0.9924887418746948
+          "start": 48.98,
+          "end": 49.3,
+          "probability": 0.999734103679657
         },
         {
           "word": " kami",
-          "start": 49.48,
-          "end": 49.94,
-          "probability": 0.9964084029197693
+          "start": 49.3,
+          "end": 49.84,
+          "probability": 0.9998793601989746
         },
         {
           "word": " yang",
-          "start": 49.94,
-          "end": 50.24,
-          "probability": 0.9929901361465454
+          "start": 49.84,
+          "end": 50.2,
+          "probability": 0.9993879795074463
         },
         {
           "word": " sadar",
-          "start": 50.24,
-          "end": 50.78,
-          "probability": 0.9773368835449219
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "seek": 2364,
-      "start": 50.78,
-      "end": 53.5,
-      "text": " Kau lakukan ini karena sesuatu",
-      "tokens": [
-        51214,
-        591,
-        1459,
-        287,
-        42774,
-        7408,
-        27173,
-        5385,
-        84,
-        20546,
-        51414
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5264451415450485,
-      "compression_ratio": 2.00709219858156,
-      "no_speech_prob": 0.5240870714187622,
-      "words": [
+          "start": 50.2,
+          "end": 50.7,
+          "probability": 0.9975038468837738
+        },
         {
-          "word": " Kau",
-          "start": 50.78,
-          "end": 51.06,
-          "probability": 0.8388161361217499
+          "word": " kau",
+          "start": 50.7,
+          "end": 50.9,
+          "probability": 0.9962866306304932
         },
         {
           "word": " lakukan",
-          "start": 51.06,
-          "end": 51.52,
-          "probability": 0.9645039737224579
+          "start": 50.9,
+          "end": 51.36,
+          "probability": 0.9990692734718323
         },
         {
           "word": " ini",
-          "start": 51.52,
-          "end": 52.06,
-          "probability": 0.9902681708335876
+          "start": 51.36,
+          "end": 51.98,
+          "probability": 0.9995049238204956
         },
         {
           "word": " karena",
-          "start": 52.06,
-          "end": 52.5,
-          "probability": 0.8476042747497559
+          "start": 51.98,
+          "end": 52.34,
+          "probability": 0.9395653009414673
         },
         {
-          "word": " sesuatu",
-          "start": 52.5,
-          "end": 53.5,
-          "probability": 0.9152639309565226
+          "word": " sesuatu?",
+          "start": 52.34,
+          "end": 53.4,
+          "probability": 0.9993263284365336
         }
       ]
     },
     {
-      "id": 19,
-      "seek": 2364,
+      "id": 8,
+      "seek": 3000,
       "start": 53.5,
-      "end": 53.62,
-      "text": " Kau lakukan ini karena sesuatu",
+      "end": 59.12,
+      "text": " Di keluarga mu di masa lalu aku tak tahu",
       "tokens": [
-        51414,
-        591,
-        1459,
-        287,
-        42774,
-        7408,
-        27173,
-        5385,
-        84,
-        20546,
-        51564
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5264451415450485,
-      "compression_ratio": 2.00709219858156,
-      "no_speech_prob": 0.5240870714187622,
-      "words": [
-        {
-          "word": " Kau",
-          "start": 53.5,
-          "end": 53.62,
-          "probability": 0.37008477421477437
-        },
-        {
-          "word": " lakukan",
-          "start": 53.62,
-          "end": 53.62,
-          "probability": 0.6334948688745499
-        },
-        {
-          "word": " ini",
-          "start": 53.62,
-          "end": 53.62,
-          "probability": 0.8796385526657104
-        },
-        {
-          "word": " karena",
-          "start": 53.62,
-          "end": 53.62,
-          "probability": 0.1781495213508606
-        },
-        {
-          "word": " sesuatu",
-          "start": 53.62,
-          "end": 53.62,
-          "probability": 0.9379273255666097
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "seek": 2364,
-      "start": 53.62,
-      "end": 53.62,
-      "text": "",
-      "tokens": [],
-      "temperature": 0.0,
-      "avg_logprob": -0.5264451415450485,
-      "compression_ratio": 2.00709219858156,
-      "no_speech_prob": 0.5240870714187622,
-      "words": []
-    },
-    {
-      "id": 21,
-      "seek": 5362,
-      "start": 53.62,
-      "end": 55.62,
-      "text": " Di kolar dammu",
-      "tokens": [
-        50364,
+        51547,
         8789,
-        17818,
-        289,
-        274,
-        5136,
-        84,
-        50464
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4352098853842726,
-      "compression_ratio": 1.5298013245033113,
-      "no_speech_prob": 0.6636870503425598,
-      "words": [
-        {
-          "word": " Di",
-          "start": 53.62,
-          "end": 54.46,
-          "probability": 0.02049008570611477
-        },
-        {
-          "word": " kolar",
-          "start": 54.46,
-          "end": 55.02,
-          "probability": 0.3497137427330017
-        },
-        {
-          "word": " dammu",
-          "start": 55.02,
-          "end": 55.650000000000006,
-          "probability": 0.5529188563426336
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "seek": 5362,
-      "start": 56.14,
-      "end": 57.56,
-      "text": " Di masa lu",
-      "tokens": [
-        50464,
-        8789,
+        43365,
+        3680,
+        2992,
+        1026,
         29216,
-        10438,
-        50564
+        287,
+        4929,
+        21093,
+        991,
+        27294,
+        51837
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.4352098853842726,
-      "compression_ratio": 1.5298013245033113,
-      "no_speech_prob": 0.6636870503425598,
+      "avg_logprob": -0.26210804199904536,
+      "compression_ratio": 1.778523489932886,
+      "no_speech_prob": 0.0058235349133610725,
       "words": [
         {
           "word": " Di",
-          "start": 56.14,
-          "end": 56.38,
-          "probability": 0.04231272637844086
+          "start": 53.5,
+          "end": 54.32,
+          "probability": 0.6046392917633057
+        },
+        {
+          "word": " keluarga",
+          "start": 54.32,
+          "end": 55.06,
+          "probability": 0.9259078502655029
+        },
+        {
+          "word": " mu",
+          "start": 55.06,
+          "end": 55.38,
+          "probability": 0.8816838264465332
+        },
+        {
+          "word": " di",
+          "start": 55.38,
+          "end": 56.22,
+          "probability": 0.28973305225372314
         },
         {
           "word": " masa",
-          "start": 56.38,
-          "end": 56.7,
-          "probability": 0.5606310367584229
+          "start": 56.22,
+          "end": 56.5,
+          "probability": 0.9972801208496094
         },
         {
-          "word": " lu",
-          "start": 56.7,
-          "end": 57.56,
-          "probability": 0.181044340133667
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "seek": 5362,
-      "start": 57.56,
-      "end": 59.74,
-      "text": " Aku langkah lu",
-      "tokens": [
-        50564,
-        41120,
-        2265,
-        37605,
-        10438,
-        50664
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4352098853842726,
-      "compression_ratio": 1.5298013245033113,
-      "no_speech_prob": 0.6636870503425598,
-      "words": [
-        {
-          "word": " Aku",
-          "start": 57.56,
-          "end": 58.36,
-          "probability": 0.7788063287734985
-        },
-        {
-          "word": " langkah",
-          "start": 58.36,
-          "end": 58.84,
-          "probability": 0.27555903047323227
-        },
-        {
-          "word": " lu",
-          "start": 58.84,
-          "end": 59.74,
-          "probability": 0.4556998312473297
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "seek": 5362,
-      "start": 59.74,
-      "end": 62.76,
-      "text": " Brava harga yang patin",
-      "tokens": [
-        50664,
-        4991,
-        2757,
-        2233,
-        3680,
-        5581,
-        1947,
-        259,
-        50814
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4352098853842726,
-      "compression_ratio": 1.5298013245033113,
-      "no_speech_prob": 0.6636870503425598,
-      "words": [
-        {
-          "word": " Brava",
-          "start": 59.74,
-          "end": 60.74,
-          "probability": 0.17776578851044178
-        },
-        {
-          "word": " harga",
-          "start": 60.74,
-          "end": 61.24,
-          "probability": 0.9694730937480927
-        },
-        {
-          "word": " yang",
-          "start": 61.24,
-          "end": 61.52,
-          "probability": 0.9620729088783264
-        },
-        {
-          "word": " patin",
-          "start": 61.52,
-          "end": 62.76,
-          "probability": 0.46709543466567993
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "seek": 5362,
-      "start": 62.76,
-      "end": 64.04,
-      "text": " Gap-gap besar",
-      "tokens": [
-        50814,
-        460,
-        569,
-        12,
-        70,
-        569,
-        48327,
-        50914
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4352098853842726,
-      "compression_ratio": 1.5298013245033113,
-      "no_speech_prob": 0.6636870503425598,
-      "words": [
-        {
-          "word": " Gap",
-          "start": 62.76,
-          "end": 63.46,
-          "probability": 0.031319786328822374
-        },
-        {
-          "word": "-gap",
-          "start": 63.46,
-          "end": 63.7,
-          "probability": 0.3365913862362504
-        },
-        {
-          "word": " besar",
-          "start": 63.7,
-          "end": 64.04,
-          "probability": 0.6069830060005188
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "seek": 5362,
-      "start": 64.04,
-      "end": 66.02,
-      "text": " Rua hati kuyang sadar",
-      "tokens": [
-        50914,
-        497,
-        4398,
-        2385,
-        72,
-        350,
-        7493,
-        656,
-        4227,
-        289,
-        50964
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4352098853842726,
-      "compression_ratio": 1.5298013245033113,
-      "no_speech_prob": 0.6636870503425598,
-      "words": [
-        {
-          "word": " Rua",
-          "start": 64.04,
-          "end": 64.5,
-          "probability": 0.30800549080595374
-        },
-        {
-          "word": " hati",
-          "start": 64.5,
-          "end": 64.98,
-          "probability": 0.5817278027534485
-        },
-        {
-          "word": " kuyang",
-          "start": 64.98,
-          "end": 65.5,
-          "probability": 0.5213295370340347
-        },
-        {
-          "word": " sadar",
-          "start": 65.5,
-          "end": 66.02,
-          "probability": 0.8794521391391754
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "seek": 5362,
-      "start": 66.02,
-      "end": 68.62,
-      "text": " Di dok-muta sebering tu diriku",
-      "tokens": [
-        50964,
-        8789,
-        25037,
-        12,
-        76,
-        12093,
-        369,
-        607,
-        278,
-        2604,
-        4746,
-        24320,
-        51114
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4352098853842726,
-      "compression_ratio": 1.5298013245033113,
-      "no_speech_prob": 0.6636870503425598,
-      "words": [
-        {
-          "word": " Di",
-          "start": 66.02,
-          "end": 66.24,
-          "probability": 0.04326377063989639
-        },
-        {
-          "word": " dok",
-          "start": 66.24,
-          "end": 66.42,
-          "probability": 0.45714429020881653
-        },
-        {
-          "word": "-muta",
-          "start": 66.42,
-          "end": 66.8,
-          "probability": 0.35654958461721736
-        },
-        {
-          "word": " sebering",
-          "start": 66.8,
-          "end": 67.62,
-          "probability": 0.5535835127035776
-        },
-        {
-          "word": " tu",
-          "start": 67.62,
-          "end": 67.78,
-          "probability": 0.05267906188964844
-        },
-        {
-          "word": " diriku",
-          "start": 67.78,
-          "end": 68.62,
-          "probability": 0.4835727699100971
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "seek": 5362,
-      "start": 68.62,
-      "end": 70.76,
-      "text": " Semoga aku",
-      "tokens": [
-        51114,
-        14421,
-        9833,
-        21093,
-        51214
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4352098853842726,
-      "compression_ratio": 1.5298013245033113,
-      "no_speech_prob": 0.6636870503425598,
-      "words": [
-        {
-          "word": " Semoga",
-          "start": 68.62,
-          "end": 69.84,
-          "probability": 0.9868508875370026
+          "word": " lalu",
+          "start": 56.5,
+          "end": 57.32,
+          "probability": 0.9950387179851532
         },
         {
           "word": " aku",
-          "start": 69.84,
-          "end": 70.76,
-          "probability": 0.9806609153747559
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "seek": 5362,
-      "start": 70.76,
-      "end": 72.64,
-      "text": " Menatakanah",
-      "tokens": [
-        51214,
-        6685,
-        267,
-        14910,
-        545,
-        51314
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4352098853842726,
-      "compression_ratio": 1.5298013245033113,
-      "no_speech_prob": 0.6636870503425598,
-      "words": [
-        {
-          "word": " Menatakanah",
-          "start": 70.76,
-          "end": 72.64,
-          "probability": 0.4262402467429638
-        }
-      ]
-    },
-    {
-      "id": 30,
-      "seek": 5362,
-      "start": 72.64,
-      "end": 74.9,
-      "text": " Aku langkah lu",
-      "tokens": [
-        51314,
-        41120,
-        2265,
-        37605,
-        10438,
-        51414
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4352098853842726,
-      "compression_ratio": 1.5298013245033113,
-      "no_speech_prob": 0.6636870503425598,
-      "words": [
-        {
-          "word": " Aku",
-          "start": 72.64,
-          "end": 73.38,
-          "probability": 0.8626064658164978
+          "start": 57.32,
+          "end": 58.3,
+          "probability": 0.7492536306381226
         },
         {
-          "word": " langkah",
-          "start": 73.38,
-          "end": 73.88,
-          "probability": 0.9012854993343353
+          "word": " tak",
+          "start": 58.3,
+          "end": 58.56,
+          "probability": 0.4329180419445038
         },
         {
-          "word": " lu",
-          "start": 73.88,
-          "end": 74.9,
-          "probability": 0.940420925617218
+          "word": " tahu",
+          "start": 58.56,
+          "end": 59.12,
+          "probability": 0.8891682624816895
         }
       ]
     },
     {
-      "id": 31,
-      "seek": 5362,
-      "start": 74.9,
-      "end": 78.04,
-      "text": " Brava harga duaman nusia",
+      "id": 9,
+      "seek": 5912,
+      "start": 59.12,
+      "end": 61.76,
+      "text": " Berapa harga empati?",
       "tokens": [
-        51414,
-        4991,
-        2757,
+        50365,
+        5637,
+        7961,
         2233,
         3680,
-        1581,
-        6147,
-        297,
-        301,
-        654,
-        51564
+        4012,
+        6908,
+        30,
+        50513
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.4352098853842726,
-      "compression_ratio": 1.5298013245033113,
-      "no_speech_prob": 0.6636870503425598,
+      "avg_logprob": -0.23058585631541717,
+      "compression_ratio": 1.5357142857142858,
+      "no_speech_prob": 0.0010147008579224348,
       "words": [
         {
-          "word": " Brava",
-          "start": 74.9,
-          "end": 75.74,
-          "probability": 0.9670144021511078
+          "word": " Berapa",
+          "start": 59.12,
+          "end": 60.64,
+          "probability": 0.9768281877040863
         },
         {
           "word": " harga",
-          "start": 75.74,
-          "end": 76.22,
-          "probability": 0.9959539473056793
+          "start": 60.64,
+          "end": 61.26,
+          "probability": 0.991251677274704
         },
         {
-          "word": " duaman",
-          "start": 76.22,
-          "end": 76.92,
-          "probability": 0.4076657295227051
-        },
-        {
-          "word": " nusia",
-          "start": 76.92,
-          "end": 78.04,
-          "probability": 0.6459524134794871
+          "word": " empati?",
+          "start": 61.26,
+          "end": 61.76,
+          "probability": 0.43717252067290246
         }
       ]
     },
     {
-      "id": 32,
-      "seek": 5362,
-      "start": 78.04,
-      "end": 81.64,
-      "text": " Berapa besar tekanan batin dari kedua",
+      "id": 10,
+      "seek": 5912,
+      "start": 63.199999999999996,
+      "end": 68.42,
+      "text": " Berapa besar ruang hatiku yang sadar hidupmu tak seberintung diriku?",
       "tokens": [
-        51564,
+        50569,
+        5637,
+        7961,
+        48327,
+        5420,
+        656,
+        2385,
+        24320,
+        5581,
+        4227,
+        289,
+        16253,
+        1010,
+        20140,
+        991,
+        369,
+        607,
+        686,
+        1063,
+        4746,
+        24320,
+        30,
+        50842
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23058585631541717,
+      "compression_ratio": 1.5357142857142858,
+      "no_speech_prob": 0.0010147008579224348,
+      "words": [
+        {
+          "word": " Berapa",
+          "start": 62.94,
+          "end": 63.48,
+          "probability": 0.9982832670211792
+        },
+        {
+          "word": " besar",
+          "start": 63.48,
+          "end": 64.02,
+          "probability": 0.999552309513092
+        },
+        {
+          "word": " ruang",
+          "start": 64.02,
+          "end": 64.58,
+          "probability": 0.9978963434696198
+        },
+        {
+          "word": " hatiku",
+          "start": 64.58,
+          "end": 65.1,
+          "probability": 0.9888754487037659
+        },
+        {
+          "word": " yang",
+          "start": 65.1,
+          "end": 65.42,
+          "probability": 0.4494592547416687
+        },
+        {
+          "word": " sadar",
+          "start": 65.42,
+          "end": 65.96,
+          "probability": 0.9967770576477051
+        },
+        {
+          "word": " hidupmu",
+          "start": 65.96,
+          "end": 66.5,
+          "probability": 0.9850284655888876
+        },
+        {
+          "word": " tak",
+          "start": 66.5,
+          "end": 66.8,
+          "probability": 0.9852027297019958
+        },
+        {
+          "word": " seberintung",
+          "start": 66.8,
+          "end": 67.72,
+          "probability": 0.8150454163551331
+        },
+        {
+          "word": " diriku?",
+          "start": 67.72,
+          "end": 68.42,
+          "probability": 0.9939405918121338
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5912,
+      "start": 69.36,
+      "end": 72.48,
+      "text": " Semoga aku menampak tanah",
+      "tokens": [
+        50877,
+        14421,
+        9833,
+        21093,
+        1706,
+        1215,
+        514,
+        7603,
+        545,
+        51046
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23058585631541717,
+      "compression_ratio": 1.5357142857142858,
+      "no_speech_prob": 0.0010147008579224348,
+      "words": [
+        {
+          "word": " Semoga",
+          "start": 69.33999999999999,
+          "end": 69.88,
+          "probability": 0.9996149837970734
+        },
+        {
+          "word": " aku",
+          "start": 69.88,
+          "end": 70.3,
+          "probability": 0.9978006482124329
+        },
+        {
+          "word": " menampak",
+          "start": 70.3,
+          "end": 71.76,
+          "probability": 0.8779047926266988
+        },
+        {
+          "word": " tanah",
+          "start": 71.76,
+          "end": 72.48,
+          "probability": 0.8485538959503174
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5912,
+      "start": 72.48,
+      "end": 74.04,
+      "text": " Aku tak tahu",
+      "tokens": [
+        51046,
+        41120,
+        991,
+        27294,
+        51133
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23058585631541717,
+      "compression_ratio": 1.5357142857142858,
+      "no_speech_prob": 0.0010147008579224348,
+      "words": [
+        {
+          "word": " Aku",
+          "start": 72.48,
+          "end": 73.28,
+          "probability": 0.2578626573085785
+        },
+        {
+          "word": " tak",
+          "start": 73.28,
+          "end": 73.6,
+          "probability": 0.9210021495819092
+        },
+        {
+          "word": " tahu",
+          "start": 73.6,
+          "end": 74.04,
+          "probability": 0.9899835586547852
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5912,
+      "start": 74.04,
+      "end": 77.64,
+      "text": " Berapa harga dua manusia?",
+      "tokens": [
+        51133,
+        5637,
+        7961,
+        2233,
+        3680,
+        40173,
+        21550,
+        654,
+        30,
+        51275
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23058585631541717,
+      "compression_ratio": 1.5357142857142858,
+      "no_speech_prob": 0.0010147008579224348,
+      "words": [
+        {
+          "word": " Berapa",
+          "start": 74.04,
+          "end": 75.64,
+          "probability": 0.8977172672748566
+        },
+        {
+          "word": " harga",
+          "start": 75.64,
+          "end": 76.2,
+          "probability": 0.9991282820701599
+        },
+        {
+          "word": " dua",
+          "start": 76.2,
+          "end": 76.46,
+          "probability": 0.9790030121803284
+        },
+        {
+          "word": " manusia?",
+          "start": 76.46,
+          "end": 77.64,
+          "probability": 0.9999144673347473
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5912,
+      "start": 77.74,
+      "end": 83.24,
+      "text": " Berapa besar tekanan batin dari kedua belah pihak orang tua?",
+      "tokens": [
+        51291,
         5637,
         7961,
         48327,
@@ -1388,400 +924,318 @@
         15597,
         42472,
         4398,
-        51764
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4352098853842726,
-      "compression_ratio": 1.5298013245033113,
-      "no_speech_prob": 0.6636870503425598,
-      "words": [
-        {
-          "word": " Berapa",
-          "start": 78.04,
-          "end": 78.74,
-          "probability": 0.8513832688331604
-        },
-        {
-          "word": " besar",
-          "start": 78.74,
-          "end": 79.26,
-          "probability": 0.9195666313171387
-        },
-        {
-          "word": " tekanan",
-          "start": 79.26,
-          "end": 80.1,
-          "probability": 0.6447630176941553
-        },
-        {
-          "word": " batin",
-          "start": 80.1,
-          "end": 80.46,
-          "probability": 0.8444765210151672
-        },
-        {
-          "word": " dari",
-          "start": 80.46,
-          "end": 80.9,
-          "probability": 0.6500795483589172
-        },
-        {
-          "word": " kedua",
-          "start": 80.9,
-          "end": 81.64,
-          "probability": 0.9873150289058685
-        }
-      ]
-    },
-    {
-      "id": 33,
-      "seek": 8164,
-      "start": 81.64,
-      "end": 83.56,
-      "text": " Bawa bihak orang tua",
-      "tokens": [
-        50364,
-        363,
-        10449,
-        3228,
+        989,
+        545,
+        3895,
         37253,
         17481,
         33578,
-        50464
+        30,
+        51593
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3560379615196815,
-      "compression_ratio": 1.4871794871794872,
-      "no_speech_prob": 0.12407433241605759,
+      "avg_logprob": -0.23058585631541717,
+      "compression_ratio": 1.5357142857142858,
+      "no_speech_prob": 0.0010147008579224348,
       "words": [
         {
-          "word": " Bawa",
-          "start": 81.64,
-          "end": 81.84,
-          "probability": 0.08617106452584267
+          "word": " Berapa",
+          "start": 77.74,
+          "end": 78.56,
+          "probability": 0.9998161792755127
         },
         {
-          "word": " bihak",
-          "start": 81.84,
-          "end": 82.6,
-          "probability": 0.5160583257675171
+          "word": " besar",
+          "start": 78.56,
+          "end": 79.24,
+          "probability": 0.9991017580032349
+        },
+        {
+          "word": " tekanan",
+          "start": 79.24,
+          "end": 79.98,
+          "probability": 0.9994163115819296
+        },
+        {
+          "word": " batin",
+          "start": 79.98,
+          "end": 80.48,
+          "probability": 0.998226135969162
+        },
+        {
+          "word": " dari",
+          "start": 80.48,
+          "end": 80.72,
+          "probability": 0.9936701059341431
+        },
+        {
+          "word": " kedua",
+          "start": 80.72,
+          "end": 81.62,
+          "probability": 0.9996617138385773
+        },
+        {
+          "word": " belah",
+          "start": 81.62,
+          "end": 82.1,
+          "probability": 0.9966349899768829
+        },
+        {
+          "word": " pihak",
+          "start": 82.1,
+          "end": 82.56,
+          "probability": 0.9971988201141357
         },
         {
           "word": " orang",
-          "start": 82.6,
-          "end": 83.08,
-          "probability": 0.9342347979545593
+          "start": 82.56,
+          "end": 82.9,
+          "probability": 0.9986525177955627
         },
         {
-          "word": " tua",
-          "start": 83.08,
-          "end": 83.56,
-          "probability": 0.9482384920120239
+          "word": " tua?",
+          "start": 82.9,
+          "end": 83.24,
+          "probability": 0.9848037958145142
         }
       ]
     },
     {
-      "id": 34,
-      "seek": 8164,
-      "start": 89.78,
-      "end": 92.82,
-      "text": " Brava harga silah ke tiga",
+      "id": 15,
+      "seek": 8912,
+      "start": 89.6,
+      "end": 92.58,
+      "text": " Berapa harga sila ketiga?",
       "tokens": [
-        50764,
-        4991,
-        2757,
+        50365,
+        5637,
+        7961,
         2233,
         3680,
         3425,
-        545,
-        803,
-        256,
+        64,
+        14979,
         9900,
-        50914
+        30,
+        50557
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3560379615196815,
-      "compression_ratio": 1.4871794871794872,
-      "no_speech_prob": 0.12407433241605759,
+      "temperature": 0.2,
+      "avg_logprob": -0.28884784864342733,
+      "compression_ratio": 2.2565789473684212,
+      "no_speech_prob": 0.001667459961026907,
       "words": [
         {
-          "word": " Brava",
-          "start": 89.78,
-          "end": 90.74,
-          "probability": 0.23451779782772064
+          "word": " Berapa",
+          "start": 89.6,
+          "end": 90.64,
+          "probability": 0.8793651461601257
         },
         {
           "word": " harga",
-          "start": 90.74,
+          "start": 90.64,
           "end": 91.2,
-          "probability": 0.9608586728572845
+          "probability": 0.9763903915882111
         },
         {
-          "word": " silah",
+          "word": " sila",
           "start": 91.2,
-          "end": 91.7,
-          "probability": 0.778155118227005
+          "end": 91.56,
+          "probability": 0.8661052584648132
         },
         {
-          "word": " ke",
-          "start": 91.7,
-          "end": 92.1,
-          "probability": 0.3912810683250427
-        },
-        {
-          "word": " tiga",
-          "start": 92.1,
-          "end": 92.82,
-          "probability": 0.6839320808649063
+          "word": " ketiga?",
+          "start": 91.56,
+          "end": 92.58,
+          "probability": 0.9935930669307709
         }
       ]
     },
     {
-      "id": 35,
-      "seek": 8164,
-      "start": 92.82,
-      "end": 95.02,
-      "text": " Terakhir gua denger hanya",
+      "id": 16,
+      "seek": 8912,
+      "start": 92.8,
+      "end": 98.4,
+      "text": " Terakhir ku dengar hanya berlaku untuk mereka yang tak menyukai sesama",
       "tokens": [
-        50914,
+        50557,
         6564,
         14532,
         347,
-        30081,
+        17807,
         1441,
-        1321,
+        2976,
         46291,
-        51014
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3560379615196815,
-      "compression_ratio": 1.4871794871794872,
-      "no_speech_prob": 0.12407433241605759,
-      "words": [
-        {
-          "word": " Terakhir",
-          "start": 92.82,
-          "end": 93.84,
-          "probability": 0.9185293714205424
-        },
-        {
-          "word": " gua",
-          "start": 93.84,
-          "end": 94.08,
-          "probability": 0.13641470670700073
-        },
-        {
-          "word": " denger",
-          "start": 94.08,
-          "end": 94.58,
-          "probability": 0.7184118330478668
-        },
-        {
-          "word": " hanya",
-          "start": 94.58,
-          "end": 95.02,
-          "probability": 0.8802608847618103
-        }
-      ]
-    },
-    {
-      "id": 36,
-      "seek": 8164,
-      "start": 95.02,
-      "end": 99.0,
-      "text": " Beru aku duk mereka yang tak menyukai sesama",
-      "tokens": [
-        51014,
-        5637,
-        84,
-        21093,
-        1581,
-        74,
+        5948,
+        75,
+        15803,
+        12711,
         23171,
         5581,
         991,
-        1706,
-        88,
+        46975,
         2034,
         1301,
         5385,
         2404,
-        51214
+        50877
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3560379615196815,
-      "compression_ratio": 1.4871794871794872,
-      "no_speech_prob": 0.12407433241605759,
+      "temperature": 0.2,
+      "avg_logprob": -0.28884784864342733,
+      "compression_ratio": 2.2565789473684212,
+      "no_speech_prob": 0.001667459961026907,
       "words": [
         {
-          "word": " Beru",
-          "start": 95.02,
-          "end": 95.4,
-          "probability": 0.21397778019309044
+          "word": " Terakhir",
+          "start": 92.8,
+          "end": 93.84,
+          "probability": 0.9969397385915121
         },
         {
-          "word": " aku",
-          "start": 95.4,
-          "end": 95.64,
-          "probability": 0.06410901248455048
+          "word": " ku",
+          "start": 93.84,
+          "end": 93.92,
+          "probability": 0.9670334458351135
         },
         {
-          "word": " duk",
-          "start": 95.64,
-          "end": 96.04,
-          "probability": 0.5045982897281647
+          "word": " dengar",
+          "start": 93.92,
+          "end": 94.52,
+          "probability": 0.9949347376823425
+        },
+        {
+          "word": " hanya",
+          "start": 94.52,
+          "end": 94.84,
+          "probability": 0.9621644616127014
+        },
+        {
+          "word": " berlaku",
+          "start": 94.84,
+          "end": 95.54,
+          "probability": 0.9544732173283895
+        },
+        {
+          "word": " untuk",
+          "start": 95.54,
+          "end": 95.88,
+          "probability": 0.300202876329422
         },
         {
           "word": " mereka",
-          "start": 96.04,
-          "end": 96.18,
-          "probability": 0.7734405398368835
+          "start": 95.88,
+          "end": 96.16,
+          "probability": 0.9973649382591248
         },
         {
           "word": " yang",
-          "start": 96.18,
-          "end": 96.64,
-          "probability": 0.9707528948783875
+          "start": 96.16,
+          "end": 96.58,
+          "probability": 0.9992157220840454
         },
         {
           "word": " tak",
-          "start": 96.64,
-          "end": 96.9,
-          "probability": 0.9875307083129883
+          "start": 96.58,
+          "end": 96.82,
+          "probability": 0.999234676361084
         },
         {
           "word": " menyukai",
-          "start": 96.9,
-          "end": 97.74,
-          "probability": 0.7443476393818855
+          "start": 96.82,
+          "end": 97.66,
+          "probability": 0.9987989266713461
         },
         {
           "word": " sesama",
-          "start": 97.74,
-          "end": 99.0,
-          "probability": 0.9160865545272827
+          "start": 97.66,
+          "end": 98.4,
+          "probability": 0.9973907470703125
         }
       ]
     },
     {
-      "id": 37,
-      "seek": 8164,
-      "start": 104.78,
-      "end": 107.5,
-      "text": " Brava harga yang patin",
+      "id": 17,
+      "seek": 8912,
+      "start": 99.6,
+      "end": 100.64,
+      "text": " Oh...",
       "tokens": [
-        51514,
-        4991,
-        2757,
-        2233,
-        3680,
-        5581,
-        1947,
-        259,
-        51664
+        50877,
+        876,
+        485,
+        51153
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3560379615196815,
-      "compression_ratio": 1.4871794871794872,
-      "no_speech_prob": 0.12407433241605759,
+      "temperature": 0.2,
+      "avg_logprob": -0.28884784864342733,
+      "compression_ratio": 2.2565789473684212,
+      "no_speech_prob": 0.001667459961026907,
       "words": [
         {
-          "word": " Brava",
-          "start": 104.78,
+          "word": " Oh...",
+          "start": 99.6,
+          "end": 100.64,
+          "probability": 0.3291579559445381
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 8912,
+      "start": 104.69999999999999,
+      "end": 106.82,
+      "text": " Berapa harga empati?",
+      "tokens": [
+        51153,
+        5637,
+        7961,
+        2233,
+        3680,
+        4012,
+        6908,
+        30,
+        51303
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.28884784864342733,
+      "compression_ratio": 2.2565789473684212,
+      "no_speech_prob": 0.001667459961026907,
+      "words": [
+        {
+          "word": " Berapa",
+          "start": 104.69999999999999,
           "end": 105.74,
-          "probability": 0.5953672081232071
+          "probability": 0.9809773862361908
         },
         {
           "word": " harga",
           "start": 105.74,
-          "end": 106.26,
-          "probability": 0.9962142705917358
+          "end": 106.24,
+          "probability": 0.9994412362575531
         },
         {
-          "word": " yang",
-          "start": 106.26,
-          "end": 106.5,
-          "probability": 0.026405315846204758
-        },
-        {
-          "word": " patin",
-          "start": 106.5,
-          "end": 107.5,
-          "probability": 0.03399354079738259
+          "word": " empati?",
+          "start": 106.24,
+          "end": 106.82,
+          "probability": 0.8394051194190979
         }
       ]
     },
     {
-      "id": 38,
-      "seek": 8164,
-      "start": 107.5,
-      "end": 110.76,
-      "text": " Brava banyak dari kami yang sadar",
+      "id": 19,
+      "seek": 8912,
+      "start": 107.52,
+      "end": 113.68,
+      "text": " Berapa banyak dari kami yang sadar kau lakukan ini dari dalam hati?",
       "tokens": [
-        51664,
-        4991,
-        2757,
+        51303,
+        5637,
+        7961,
         25808,
         15597,
         34502,
         5581,
         4227,
         289,
-        51814
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3560379615196815,
-      "compression_ratio": 1.4871794871794872,
-      "no_speech_prob": 0.12407433241605759,
-      "words": [
-        {
-          "word": " Brava",
-          "start": 107.5,
-          "end": 108.6,
-          "probability": 0.8210473656654358
-        },
-        {
-          "word": " banyak",
-          "start": 108.6,
-          "end": 109.02,
-          "probability": 0.9937041401863098
-        },
-        {
-          "word": " dari",
-          "start": 109.02,
-          "end": 109.48,
-          "probability": 0.9799924492835999
-        },
-        {
-          "word": " kami",
-          "start": 109.48,
-          "end": 109.96,
-          "probability": 0.8664951324462891
-        },
-        {
-          "word": " yang",
-          "start": 109.96,
-          "end": 110.28,
-          "probability": 0.9901193380355835
-        },
-        {
-          "word": " sadar",
-          "start": 110.28,
-          "end": 110.76,
-          "probability": 0.9031191468238831
-        }
-      ]
-    },
-    {
-      "id": 39,
-      "seek": 11076,
-      "start": 110.76,
-      "end": 113.7,
-      "text": " Kau lakukan ini dari dalam hati",
-      "tokens": [
-        50364,
-        591,
-        1459,
+        36273,
         287,
         42774,
         7408,
@@ -1789,657 +1243,998 @@
         23063,
         2385,
         72,
-        50514
+        30,
+        51607
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21283092268978257,
-      "compression_ratio": 1.4411764705882353,
-      "no_speech_prob": 0.0038878354243934155,
+      "temperature": 0.2,
+      "avg_logprob": -0.28884784864342733,
+      "compression_ratio": 2.2565789473684212,
+      "no_speech_prob": 0.001667459961026907,
       "words": [
         {
-          "word": " Kau",
-          "start": 110.76,
-          "end": 111.06,
-          "probability": 0.5502953380346298
+          "word": " Berapa",
+          "start": 107.52,
+          "end": 108.56,
+          "probability": 0.9997486472129822
         },
         {
-          "word": " lakukan",
-          "start": 111.06,
-          "end": 111.54,
-          "probability": 0.48305953899398446
-        },
-        {
-          "word": " ini",
-          "start": 111.54,
-          "end": 112.02,
-          "probability": 0.6747488975524902
+          "word": " banyak",
+          "start": 108.56,
+          "end": 108.98,
+          "probability": 0.9995974898338318
         },
         {
           "word": " dari",
-          "start": 112.02,
-          "end": 112.56,
-          "probability": 0.9554564952850342
+          "start": 108.98,
+          "end": 109.38,
+          "probability": 0.9996001124382019
+        },
+        {
+          "word": " kami",
+          "start": 109.38,
+          "end": 109.86,
+          "probability": 0.9997695088386536
+        },
+        {
+          "word": " yang",
+          "start": 109.86,
+          "end": 110.24,
+          "probability": 0.9990299940109253
+        },
+        {
+          "word": " sadar",
+          "start": 110.24,
+          "end": 110.72,
+          "probability": 0.9989199340343475
+        },
+        {
+          "word": " kau",
+          "start": 110.72,
+          "end": 110.9,
+          "probability": 0.9620723724365234
+        },
+        {
+          "word": " lakukan",
+          "start": 110.9,
+          "end": 111.28,
+          "probability": 0.9862435162067413
+        },
+        {
+          "word": " ini",
+          "start": 111.28,
+          "end": 111.9,
+          "probability": 0.998557984828949
+        },
+        {
+          "word": " dari",
+          "start": 111.9,
+          "end": 112.44,
+          "probability": 0.9933528900146484
         },
         {
           "word": " dalam",
-          "start": 112.56,
-          "end": 113.0,
-          "probability": 0.8677350282669067
+          "start": 112.44,
+          "end": 112.94,
+          "probability": 0.9997065663337708
         },
         {
-          "word": " hati",
-          "start": 113.0,
-          "end": 113.7,
-          "probability": 0.8651190102100372
+          "word": " hati?",
+          "start": 112.94,
+          "end": 113.68,
+          "probability": 0.9997158646583557
         }
       ]
     },
     {
-      "id": 40,
-      "seek": 11076,
-      "start": 113.7,
-      "end": 117.46,
-      "text": " Tak terbayangkan besar berbandung",
+      "id": 20,
+      "seek": 8912,
+      "start": 113.82,
+      "end": 117.26,
+      "text": " Tak terbayangkan besar bebanmu",
       "tokens": [
-        50514,
+        51607,
         9118,
         1796,
         42484,
         656,
         5225,
         48327,
-        5948,
-        4235,
-        1063,
-        50714
+        312,
+        5144,
+        20140,
+        51769
       ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21283092268978257,
-      "compression_ratio": 1.4411764705882353,
-      "no_speech_prob": 0.0038878354243934155,
+      "temperature": 0.2,
+      "avg_logprob": -0.28884784864342733,
+      "compression_ratio": 2.2565789473684212,
+      "no_speech_prob": 0.001667459961026907,
       "words": [
         {
           "word": " Tak",
-          "start": 113.7,
-          "end": 114.44,
-          "probability": 0.6785914301872253
+          "start": 113.82,
+          "end": 114.34,
+          "probability": 0.9816372990608215
         },
         {
           "word": " terbayangkan",
-          "start": 114.44,
-          "end": 115.94,
-          "probability": 0.6166439726948738
+          "start": 114.34,
+          "end": 115.48,
+          "probability": 0.9990444481372833
         },
         {
           "word": " besar",
-          "start": 115.94,
-          "end": 116.5,
-          "probability": 0.20580191910266876
+          "start": 115.48,
+          "end": 116.36,
+          "probability": 0.9785416722297668
         },
         {
-          "word": " berbandung",
-          "start": 116.5,
-          "end": 117.46,
-          "probability": 0.4428013662497203
+          "word": " bebanmu",
+          "start": 116.36,
+          "end": 117.26,
+          "probability": 0.985292375087738
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 8912,
+      "start": 117.26,
+      "end": 119.1,
+      "text": " Berapa harga empati?",
+      "tokens": [
+        51769,
+        5637,
+        7961,
+        2233,
+        3680,
+        4012,
+        6908,
+        30,
+        51809
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.28884784864342733,
+      "compression_ratio": 2.2565789473684212,
+      "no_speech_prob": 0.001667459961026907,
+      "words": [
+        {
+          "word": " Berapa",
+          "start": 117.26,
+          "end": 118.26,
+          "probability": 0.4933926831381541
+        },
+        {
+          "word": " harga",
+          "start": 118.26,
+          "end": 119.04,
+          "probability": 0.8708436787128448
+        },
+        {
+          "word": " empati?",
+          "start": 119.04,
+          "end": 119.1,
+          "probability": 0.517722038552165
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 8912,
+      "start": 119.1,
+      "end": 119.1,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.2,
+      "avg_logprob": -0.28884784864342733,
+      "compression_ratio": 2.2565789473684212,
+      "no_speech_prob": 0.001667459961026907,
+      "words": []
+    },
+    {
+      "id": 23,
+      "seek": 11910,
+      "start": 119.1,
+      "end": 121.78,
+      "text": " Berapa harga empati?",
+      "tokens": [
+        50365,
+        5637,
+        7961,
+        2233,
+        3680,
+        4012,
+        6908,
+        30,
+        50557
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2524149605397428,
+      "compression_ratio": 2.2095238095238097,
+      "no_speech_prob": 0.002679420867934823,
+      "words": [
+        {
+          "word": " Berapa",
+          "start": 119.1,
+          "end": 120.68,
+          "probability": 0.949631541967392
+        },
+        {
+          "word": " harga",
+          "start": 120.68,
+          "end": 121.28,
+          "probability": 0.9930379092693329
+        },
+        {
+          "word": " empati?",
+          "start": 121.28,
+          "end": 121.78,
+          "probability": 0.5020125135779381
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 11910,
+      "start": 122.94,
+      "end": 128.42,
+      "text": " Berapa besar ruang hatiku yang sadar hidupmu tak seberintung diriku?",
+      "tokens": [
+        50557,
+        5637,
+        7961,
+        48327,
+        5420,
+        656,
+        2385,
+        24320,
+        5581,
+        4227,
+        289,
+        16253,
+        1010,
+        20140,
+        991,
+        369,
+        607,
+        686,
+        1063,
+        4746,
+        24320,
+        30,
+        50877
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2524149605397428,
+      "compression_ratio": 2.2095238095238097,
+      "no_speech_prob": 0.002679420867934823,
+      "words": [
+        {
+          "word": " Berapa",
+          "start": 122.92,
+          "end": 123.44,
+          "probability": 0.9984374046325684
+        },
+        {
+          "word": " besar",
+          "start": 123.44,
+          "end": 123.96,
+          "probability": 0.9993805885314941
+        },
+        {
+          "word": " ruang",
+          "start": 123.96,
+          "end": 124.56,
+          "probability": 0.9974761605262756
+        },
+        {
+          "word": " hatiku",
+          "start": 124.56,
+          "end": 125.08,
+          "probability": 0.9916979968547821
+        },
+        {
+          "word": " yang",
+          "start": 125.08,
+          "end": 125.4,
+          "probability": 0.33313339948654175
+        },
+        {
+          "word": " sadar",
+          "start": 125.4,
+          "end": 125.96,
+          "probability": 0.9959319829940796
+        },
+        {
+          "word": " hidupmu",
+          "start": 125.96,
+          "end": 126.58,
+          "probability": 0.9656314055124918
+        },
+        {
+          "word": " tak",
+          "start": 126.58,
+          "end": 126.78,
+          "probability": 0.9611341953277588
+        },
+        {
+          "word": " seberintung",
+          "start": 126.78,
+          "end": 127.68,
+          "probability": 0.5625901819839783
+        },
+        {
+          "word": " diriku?",
+          "start": 127.68,
+          "end": 128.42,
+          "probability": 0.9628598690032959
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 11910,
+      "start": 129.34,
+      "end": 132.38,
+      "text": " Semoga aku menampak tanah",
+      "tokens": [
+        50877,
+        14421,
+        9833,
+        21093,
+        1706,
+        1215,
+        514,
+        7603,
+        545,
+        51069
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2524149605397428,
+      "compression_ratio": 2.2095238095238097,
+      "no_speech_prob": 0.002679420867934823,
+      "words": [
+        {
+          "word": " Semoga",
+          "start": 129.32,
+          "end": 129.84,
+          "probability": 0.9995355606079102
+        },
+        {
+          "word": " aku",
+          "start": 129.84,
+          "end": 130.26,
+          "probability": 0.9971919655799866
+        },
+        {
+          "word": " menampak",
+          "start": 130.26,
+          "end": 131.78,
+          "probability": 0.717543308933576
+        },
+        {
+          "word": " tanah",
+          "start": 131.78,
+          "end": 132.38,
+          "probability": 0.9678801000118256
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 11910,
+      "start": 133.18,
+      "end": 134.08,
+      "text": " Aku tak tahu",
+      "tokens": [
+        51069,
+        41120,
+        991,
+        27294,
+        51169
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2524149605397428,
+      "compression_ratio": 2.2095238095238097,
+      "no_speech_prob": 0.002679420867934823,
+      "words": [
+        {
+          "word": " Aku",
+          "start": 132.72,
+          "end": 133.24,
+          "probability": 0.5242016315460205
+        },
+        {
+          "word": " tak",
+          "start": 133.24,
+          "end": 133.6,
+          "probability": 0.9742370843887329
+        },
+        {
+          "word": " tahu",
+          "start": 133.6,
+          "end": 134.08,
+          "probability": 0.9839615821838379
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 11910,
+      "start": 135.18,
+      "end": 137.84,
+      "text": " Aku tak tahu",
+      "tokens": [
+        51169,
+        41120,
+        991,
+        27294,
+        51269
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2524149605397428,
+      "compression_ratio": 2.2095238095238097,
+      "no_speech_prob": 0.002679420867934823,
+      "words": [
+        {
+          "word": " Aku",
+          "start": 135.18,
+          "end": 136.1,
+          "probability": 0.8737805485725403
+        },
+        {
+          "word": " tak",
+          "start": 136.1,
+          "end": 137.38,
+          "probability": 0.9961075186729431
+        },
+        {
+          "word": " tahu",
+          "start": 137.38,
+          "end": 137.84,
+          "probability": 0.9997571110725403
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 11910,
+      "start": 139.74,
+      "end": 141.66,
+      "text": " Aku tak tahu",
+      "tokens": [
+        51269,
+        41120,
+        991,
+        27294,
+        51369
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2524149605397428,
+      "compression_ratio": 2.2095238095238097,
+      "no_speech_prob": 0.002679420867934823,
+      "words": [
+        {
+          "word": " Aku",
+          "start": 139.74,
+          "end": 140.78,
+          "probability": 0.9983598589897156
+        },
+        {
+          "word": " tak",
+          "start": 140.78,
+          "end": 141.18,
+          "probability": 0.9989809393882751
+        },
+        {
+          "word": " tahu",
+          "start": 141.18,
+          "end": 141.66,
+          "probability": 0.9999167919158936
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 11910,
+      "start": 143.46,
+      "end": 145.2,
+      "text": " Aku tak tahu",
+      "tokens": [
+        51369,
+        41120,
+        991,
+        27294,
+        51469
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2524149605397428,
+      "compression_ratio": 2.2095238095238097,
+      "no_speech_prob": 0.002679420867934823,
+      "words": [
+        {
+          "word": " Aku",
+          "start": 143.46,
+          "end": 144.5,
+          "probability": 0.9981497526168823
+        },
+        {
+          "word": " tak",
+          "start": 144.5,
+          "end": 144.9,
+          "probability": 0.999538779258728
+        },
+        {
+          "word": " tahu",
+          "start": 144.9,
+          "end": 145.2,
+          "probability": 0.9999006986618042
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 11910,
+      "start": 145.2,
+      "end": 145.22,
+      "text": " Aku tak tahu",
+      "tokens": [
+        51469,
+        41120,
+        991,
+        27294,
+        51569
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2524149605397428,
+      "compression_ratio": 2.2095238095238097,
+      "no_speech_prob": 0.002679420867934823,
+      "words": [
+        {
+          "word": " Aku",
+          "start": 145.2,
+          "end": 145.2,
+          "probability": 0.976963222026825
+        },
+        {
+          "word": " tak",
+          "start": 145.2,
+          "end": 145.2,
+          "probability": 0.9980151653289795
+        },
+        {
+          "word": " tahu",
+          "start": 145.2,
+          "end": 145.22,
+          "probability": 0.9997509121894836
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 11910,
+      "start": 145.22,
+      "end": 146.44,
+      "text": " Aku tak tahu",
+      "tokens": [
+        51569,
+        41120,
+        991,
+        27294,
+        51669
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2524149605397428,
+      "compression_ratio": 2.2095238095238097,
+      "no_speech_prob": 0.002679420867934823,
+      "words": [
+        {
+          "word": " Aku",
+          "start": 145.22,
+          "end": 146.44,
+          "probability": 0.9517149925231934
+        },
+        {
+          "word": " tak",
+          "start": 146.44,
+          "end": 146.44,
+          "probability": 0.9962702989578247
+        },
+        {
+          "word": " tahu",
+          "start": 146.44,
+          "end": 146.44,
+          "probability": 0.9995797276496887
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 11910,
+      "start": 146.44,
+      "end": 147.94,
+      "text": " Aku tak tahu",
+      "tokens": [
+        51669,
+        41120,
+        991,
+        27294,
+        51769
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2524149605397428,
+      "compression_ratio": 2.2095238095238097,
+      "no_speech_prob": 0.002679420867934823,
+      "words": [
+        {
+          "word": " Aku",
+          "start": 146.44,
+          "end": 146.44,
+          "probability": 0.9636489152908325
+        },
+        {
+          "word": " tak",
+          "start": 146.44,
+          "end": 147.84,
+          "probability": 0.9968960285186768
+        },
+        {
+          "word": " tahu",
+          "start": 147.84,
+          "end": 147.94,
+          "probability": 0.9995410442352295
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 11910,
+      "start": 147.94,
+      "end": 148.6,
+      "text": " Aku tak tahu",
+      "tokens": [
+        51769,
+        41120,
+        991,
+        27294,
+        51809
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2524149605397428,
+      "compression_ratio": 2.2095238095238097,
+      "no_speech_prob": 0.002679420867934823,
+      "words": [
+        {
+          "word": " Aku",
+          "start": 147.94,
+          "end": 148.3,
+          "probability": 0.9729310870170593
+        },
+        {
+          "word": " tak",
+          "start": 148.3,
+          "end": 148.6,
+          "probability": 0.997296154499054
+        },
+        {
+          "word": " tahu",
+          "start": 148.6,
+          "end": 148.6,
+          "probability": 0.9994992017745972
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 11910,
+      "start": 148.6,
+      "end": 149.08,
+      "text": " Aku tak tahu",
+      "tokens": [
+        51809,
+        41120,
+        991,
+        27294,
+        51837
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2524149605397428,
+      "compression_ratio": 2.2095238095238097,
+      "no_speech_prob": 0.002679420867934823,
+      "words": [
+        {
+          "word": " Aku",
+          "start": 148.6,
+          "end": 148.96,
+          "probability": 0.9767757654190063
+        },
+        {
+          "word": " tak",
+          "start": 148.96,
+          "end": 149.08,
+          "probability": 0.9974495768547058
+        },
+        {
+          "word": " tahu",
+          "start": 149.08,
+          "end": 149.08,
+          "probability": 0.9994499087333679
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 14908,
+      "start": 149.08,
+      "end": 149.5,
+      "text": " Aku tak tahu",
+      "tokens": [
+        50365,
+        41120,
+        991,
+        27294,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17540935190712534,
+      "compression_ratio": 2.2888888888888888,
+      "no_speech_prob": 0.07305824011564255,
+      "words": [
+        {
+          "word": " Aku",
+          "start": 149.08,
+          "end": 149.38,
+          "probability": 0.001280144089832902
+        },
+        {
+          "word": " tak",
+          "start": 149.38,
+          "end": 149.38,
+          "probability": 0.26650270819664
+        },
+        {
+          "word": " tahu",
+          "start": 149.38,
+          "end": 149.5,
+          "probability": 0.9472588300704956
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 14908,
+      "start": 149.5,
+      "end": 151.88,
+      "text": " Aku tak tahu",
+      "tokens": [
+        50465,
+        41120,
+        991,
+        27294,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17540935190712534,
+      "compression_ratio": 2.2888888888888888,
+      "no_speech_prob": 0.07305824011564255,
+      "words": [
+        {
+          "word": " Aku",
+          "start": 149.5,
+          "end": 150.52,
+          "probability": 0.030234742909669876
+        },
+        {
+          "word": " tak",
+          "start": 150.52,
+          "end": 151.4,
+          "probability": 0.9684670567512512
+        },
+        {
+          "word": " tahu",
+          "start": 151.4,
+          "end": 151.88,
+          "probability": 0.9989299178123474
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 14908,
+      "start": 153.08,
+      "end": 155.44,
+      "text": " Aku tak tahu",
+      "tokens": [
+        50565,
+        41120,
+        991,
+        27294,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17540935190712534,
+      "compression_ratio": 2.2888888888888888,
+      "no_speech_prob": 0.07305824011564255,
+      "words": [
+        {
+          "word": " Aku",
+          "start": 153.04000000000002,
+          "end": 153.68,
+          "probability": 0.06977473199367523
+        },
+        {
+          "word": " tak",
+          "start": 153.68,
+          "end": 155.04,
+          "probability": 0.9884633421897888
+        },
+        {
+          "word": " tahu",
+          "start": 155.04,
+          "end": 155.44,
+          "probability": 0.999381422996521
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 14908,
+      "start": 155.44,
+      "end": 156.96,
+      "text": " Aku tak tahu",
+      "tokens": [
+        50665,
+        41120,
+        991,
+        27294,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17540935190712534,
+      "compression_ratio": 2.2888888888888888,
+      "no_speech_prob": 0.07305824011564255,
+      "words": [
+        {
+          "word": " Aku",
+          "start": 155.44,
+          "end": 156.74,
+          "probability": 0.1261620670557022
+        },
+        {
+          "word": " tak",
+          "start": 156.74,
+          "end": 156.96,
+          "probability": 0.9893836379051208
+        },
+        {
+          "word": " tahu",
+          "start": 156.96,
+          "end": 156.96,
+          "probability": 0.9993841648101807
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 14908,
+      "start": 156.96,
+      "end": 159.2,
+      "text": " Aku tak tahu",
+      "tokens": [
+        50765,
+        41120,
+        991,
+        27294,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17540935190712534,
+      "compression_ratio": 2.2888888888888888,
+      "no_speech_prob": 0.07305824011564255,
+      "words": [
+        {
+          "word": " Aku",
+          "start": 156.96,
+          "end": 158.36,
+          "probability": 0.17703354358673096
+        },
+        {
+          "word": " tak",
+          "start": 158.36,
+          "end": 159.2,
+          "probability": 0.988806962966919
+        },
+        {
+          "word": " tahu",
+          "start": 159.2,
+          "end": 159.2,
+          "probability": 0.9993211030960083
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 14908,
+      "start": 159.2,
+      "end": 162.38,
+      "text": " Semoga aku menampak tanah",
+      "tokens": [
+        50865,
+        14421,
+        9833,
+        21093,
+        1706,
+        1215,
+        514,
+        7603,
+        545,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17540935190712534,
+      "compression_ratio": 2.2888888888888888,
+      "no_speech_prob": 0.07305824011564255,
+      "words": [
+        {
+          "word": " Semoga",
+          "start": 159.2,
+          "end": 159.84,
+          "probability": 0.8547006547451019
+        },
+        {
+          "word": " aku",
+          "start": 159.84,
+          "end": 160.26,
+          "probability": 0.9950732588768005
+        },
+        {
+          "word": " menampak",
+          "start": 160.26,
+          "end": 161.76,
+          "probability": 0.3795410618185997
+        },
+        {
+          "word": " tanah",
+          "start": 161.76,
+          "end": 162.38,
+          "probability": 0.8680397868156433
         }
       ]
     },
     {
       "id": 41,
-      "seek": 11076,
-      "start": 117.46,
-      "end": 119.44,
-      "text": " Aku jakau",
+      "seek": 14908,
+      "start": 163.08,
+      "end": 163.88,
+      "text": " Aku tak tahu",
       "tokens": [
-        50714,
+        51065,
         41120,
-        361,
-        514,
-        1459,
-        50814
+        991,
+        27294,
+        51165
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.21283092268978257,
-      "compression_ratio": 1.4411764705882353,
-      "no_speech_prob": 0.0038878354243934155,
+      "avg_logprob": -0.17540935190712534,
+      "compression_ratio": 2.2888888888888888,
+      "no_speech_prob": 0.07305824011564255,
       "words": [
         {
           "word": " Aku",
-          "start": 117.46,
-          "end": 118.36,
-          "probability": 0.7024810314178467
+          "start": 162.7,
+          "end": 163.34,
+          "probability": 0.6494553089141846
         },
         {
-          "word": " jakau",
-          "start": 118.36,
-          "end": 119.44,
-          "probability": 0.45713701844215393
-        }
-      ]
-    },
-    {
-      "id": 42,
-      "seek": 11076,
-      "start": 119.44,
-      "end": 122.48,
-      "text": " Brava harga yang patin",
-      "tokens": [
-        50814,
-        4991,
-        2757,
-        2233,
-        3680,
-        5581,
-        1947,
-        259,
-        50964
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21283092268978257,
-      "compression_ratio": 1.4411764705882353,
-      "no_speech_prob": 0.0038878354243934155,
-      "words": [
-        {
-          "word": " Brava",
-          "start": 119.44,
-          "end": 120.76,
-          "probability": 0.2854709648527205
+          "word": " tak",
+          "start": 163.34,
+          "end": 163.62,
+          "probability": 0.9506716728210449
         },
         {
-          "word": " harga",
-          "start": 120.76,
-          "end": 121.24,
-          "probability": 0.9614874124526978
-        },
-        {
-          "word": " yang",
-          "start": 121.24,
-          "end": 121.52,
-          "probability": 0.37197089195251465
-        },
-        {
-          "word": " patin",
-          "start": 121.52,
-          "end": 122.48,
-          "probability": 0.36826349049806595
-        }
-      ]
-    },
-    {
-      "id": 43,
-      "seek": 11076,
-      "start": 122.48,
-      "end": 126.04,
-      "text": " Brava besar rua hati kuyang sadar",
-      "tokens": [
-        50964,
-        4991,
-        2757,
-        48327,
-        367,
-        4398,
-        2385,
-        72,
-        350,
-        7493,
-        656,
-        4227,
-        289,
-        51114
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21283092268978257,
-      "compression_ratio": 1.4411764705882353,
-      "no_speech_prob": 0.0038878354243934155,
-      "words": [
-        {
-          "word": " Brava",
-          "start": 122.48,
-          "end": 123.62,
-          "probability": 0.6293523460626602
-        },
-        {
-          "word": " besar",
-          "start": 123.62,
-          "end": 124.0,
-          "probability": 0.9634869694709778
-        },
-        {
-          "word": " rua",
-          "start": 124.0,
-          "end": 124.48,
-          "probability": 0.21170327183790505
-        },
-        {
-          "word": " hati",
-          "start": 124.48,
-          "end": 125.04,
-          "probability": 0.3936892244964838
-        },
-        {
-          "word": " kuyang",
-          "start": 125.04,
-          "end": 125.48,
-          "probability": 0.25639597823222476
-        },
-        {
-          "word": " sadar",
-          "start": 125.48,
-          "end": 126.04,
-          "probability": 0.7960257232189178
-        }
-      ]
-    },
-    {
-      "id": 44,
-      "seek": 11076,
-      "start": 126.04,
-      "end": 128.56,
-      "text": " Di dok-muta sebering tu diriku",
-      "tokens": [
-        51114,
-        8789,
-        25037,
-        12,
-        76,
-        12093,
-        369,
-        607,
-        278,
-        2604,
-        4746,
-        24320,
-        51264
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21283092268978257,
-      "compression_ratio": 1.4411764705882353,
-      "no_speech_prob": 0.0038878354243934155,
-      "words": [
-        {
-          "word": " Di",
-          "start": 126.04,
-          "end": 126.26,
-          "probability": 3.8230977224884555e-05
-        },
-        {
-          "word": " dok",
-          "start": 126.26,
-          "end": 126.44,
-          "probability": 0.01239599846303463
-        },
-        {
-          "word": "-muta",
-          "start": 126.44,
-          "end": 126.76,
-          "probability": 0.17845219994584718
-        },
-        {
-          "word": " sebering",
-          "start": 126.76,
-          "end": 127.64,
-          "probability": 0.2838679755417009
-        },
-        {
-          "word": " tu",
-          "start": 127.64,
-          "end": 127.82,
-          "probability": 0.048044394701719284
-        },
-        {
-          "word": " diriku",
-          "start": 127.82,
-          "end": 128.56,
-          "probability": 0.08750079711899161
-        }
-      ]
-    },
-    {
-      "id": 45,
-      "seek": 11076,
-      "start": 128.56,
-      "end": 130.7,
-      "text": " Semoga aku",
-      "tokens": [
-        51264,
-        14421,
-        9833,
-        21093,
-        51364
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21283092268978257,
-      "compression_ratio": 1.4411764705882353,
-      "no_speech_prob": 0.0038878354243934155,
-      "words": [
-        {
-          "word": " Semoga",
-          "start": 128.56,
-          "end": 129.82,
-          "probability": 0.9103356599807739
-        },
-        {
-          "word": " aku",
-          "start": 129.82,
-          "end": 130.7,
-          "probability": 0.9949880838394165
-        }
-      ]
-    },
-    {
-      "id": 46,
-      "seek": 11076,
-      "start": 130.7,
-      "end": 132.72,
-      "text": " Menatakanah",
-      "tokens": [
-        51364,
-        6685,
-        267,
-        14910,
-        545,
-        51464
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21283092268978257,
-      "compression_ratio": 1.4411764705882353,
-      "no_speech_prob": 0.0038878354243934155,
-      "words": [
-        {
-          "word": " Menatakanah",
-          "start": 130.7,
-          "end": 132.72,
-          "probability": 0.1754519511014223
-        }
-      ]
-    },
-    {
-      "id": 47,
-      "seek": 11076,
-      "start": 132.72,
-      "end": 134.26,
-      "text": " Aku jakau",
-      "tokens": [
-        51464,
-        41120,
-        361,
-        514,
-        1459,
-        51564
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.21283092268978257,
-      "compression_ratio": 1.4411764705882353,
-      "no_speech_prob": 0.0038878354243934155,
-      "words": [
-        {
-          "word": " Aku",
-          "start": 132.72,
-          "end": 133.38,
-          "probability": 0.8933408260345459
-        },
-        {
-          "word": " jakau",
-          "start": 133.38,
-          "end": 134.26,
-          "probability": 0.6538085490465164
-        }
-      ]
-    },
-    {
-      "id": 48,
-      "seek": 13426,
-      "start": 134.26,
-      "end": 135.5,
-      "text": " Brava harga",
-      "tokens": [
-        50364,
-        4991,
-        2757,
-        2233,
-        3680,
-        50464
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3524155284083167,
-      "compression_ratio": 1.510204081632653,
-      "no_speech_prob": 0.45011192560195923,
-      "words": [
-        {
-          "word": " Brava",
-          "start": 134.26,
-          "end": 134.88,
-          "probability": 0.016238937403613818
-        },
-        {
-          "word": " harga",
-          "start": 134.88,
-          "end": 135.5,
-          "probability": 0.4275288001517765
-        }
-      ]
-    },
-    {
-      "id": 49,
-      "seek": 13426,
-      "start": 136.26,
-      "end": 137.88,
-      "text": " Aku jakau",
-      "tokens": [
-        50464,
-        41120,
-        361,
-        514,
-        1459,
-        50564
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3524155284083167,
-      "compression_ratio": 1.510204081632653,
-      "no_speech_prob": 0.45011192560195923,
-      "words": [
-        {
-          "word": " Aku",
-          "start": 136.08,
-          "end": 136.78,
-          "probability": 0.00010915685561485589
-        },
-        {
-          "word": " jakau",
-          "start": 136.78,
-          "end": 137.88,
-          "probability": 0.009966459455123792
-        }
-      ]
-    },
-    {
-      "id": 50,
-      "seek": 13426,
-      "start": 139.48,
-      "end": 141.66,
-      "text": " Aku jakau",
-      "tokens": [
-        50564,
-        41120,
-        361,
-        514,
-        1459,
-        50664
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3524155284083167,
-      "compression_ratio": 1.510204081632653,
-      "no_speech_prob": 0.45011192560195923,
-      "words": [
-        {
-          "word": " Aku",
-          "start": 139.48,
-          "end": 140.88,
-          "probability": 0.8584790825843811
-        },
-        {
-          "word": " jakau",
-          "start": 140.88,
-          "end": 141.66,
-          "probability": 0.7127563307682673
-        }
-      ]
-    },
-    {
-      "id": 51,
-      "seek": 13426,
-      "start": 141.66,
-      "end": 142.3,
-      "text": " Aku jakau",
-      "tokens": [
-        50664,
-        41120,
-        361,
-        514,
-        1459,
-        50814
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3524155284083167,
-      "compression_ratio": 1.510204081632653,
-      "no_speech_prob": 0.45011192560195923,
-      "words": [
-        {
-          "word": " Aku",
-          "start": 141.66,
-          "end": 142.3,
-          "probability": 0.9249728322029114
-        },
-        {
-          "word": " jakau",
-          "start": 142.3,
-          "end": 142.3,
-          "probability": 0.9050620595614115
-        }
-      ]
-    },
-    {
-      "id": 52,
-      "seek": 13426,
-      "start": 142.3,
-      "end": 145.54,
-      "text": " Aku jakau",
-      "tokens": [
-        50814,
-        41120,
-        361,
-        514,
-        1459,
-        50964
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3524155284083167,
-      "compression_ratio": 1.510204081632653,
-      "no_speech_prob": 0.45011192560195923,
-      "words": [
-        {
-          "word": " Aku",
-          "start": 142.3,
-          "end": 142.3,
-          "probability": 0.918982982635498
-        },
-        {
-          "word": " jakau",
-          "start": 142.3,
-          "end": 145.54,
-          "probability": 0.9456930955251058
-        }
-      ]
-    },
-    {
-      "id": 53,
-      "seek": 13426,
-      "start": 158.4,
-      "end": 160.74,
-      "text": " Semoga aku",
-      "tokens": [
-        51564,
-        14421,
-        9833,
-        21093,
-        51714
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3524155284083167,
-      "compression_ratio": 1.510204081632653,
-      "no_speech_prob": 0.45011192560195923,
-      "words": [
-        {
-          "word": " Semoga",
-          "start": 158.4,
-          "end": 159.8,
-          "probability": 0.4909209326870041
-        },
-        {
-          "word": " aku",
-          "start": 159.8,
-          "end": 160.74,
-          "probability": 0.9641406536102295
-        }
-      ]
-    },
-    {
-      "id": 54,
-      "seek": 13426,
-      "start": 161.26,
-      "end": 162.34,
-      "text": " Menatakanah",
-      "tokens": [
-        51714,
-        6685,
-        267,
-        14910,
-        545,
-        51814
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3524155284083167,
-      "compression_ratio": 1.510204081632653,
-      "no_speech_prob": 0.45011192560195923,
-      "words": [
-        {
-          "word": " Menatakanah",
-          "start": 161.26,
-          "end": 162.34,
-          "probability": 0.11293642219970934
-        }
-      ]
-    },
-    {
-      "id": 55,
-      "seek": 16234,
-      "start": 162.34,
-      "end": 164.46,
-      "text": " Aku jakau",
-      "tokens": [
-        50364,
-        41120,
-        361,
-        514,
-        1459,
-        50514
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1080834184374128,
-      "compression_ratio": 0.5294117647058824,
-      "no_speech_prob": 0.4966467618942261,
-      "words": [
-        {
-          "word": " Aku",
-          "start": 162.34,
-          "end": 163.4,
-          "probability": 0.8096315860748291
-        },
-        {
-          "word": " jakau",
-          "start": 163.4,
-          "end": 164.46,
-          "probability": 0.002016271416020269
+          "word": " tahu",
+          "start": 163.62,
+          "end": 163.88,
+          "probability": 0.9964884519577026
         }
       ]
     }
