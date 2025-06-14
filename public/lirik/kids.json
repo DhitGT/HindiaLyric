@@ -1,0 +1,3098 @@
+{
+  "text": " Pagi ini sumpah ku kira kucingku bangunkanku dengan kukunya Hati sedih saat ku sadar diriku sendirian di luar kota Far far away from my responsibility of feeding them on time Right now so close I know I'm getting what I want I think I need summer dimes Dan kadang ku takut kurang wangkan waktu di rumah ku mimi dan deti Terlambat sadar bahwa sepanjang hidup mereka hanya punya diriku Or maybe I made one too many mistakes just wanna feel them for one last time Always I hope that I did them okay I gave them enough love and a life You know I got no answer I just can't decide Takutnya jawaban I just can't decide Whether I really care about making it big or if I just wanna hop on that thing and go home Be home with my cats Be home with my kids Maybe I made one too many mistakes just wanna feel them for one last time Always I hope that I did them okay I gave them enough love and a life Because I need summer and I feel like it was fundamental for me I can't wait to be done with these things From Gr嵩nki,変 jalan lagi And I want to keep talking about that I don't want to sweet talk about marriage I want to share the difference between us lol There's something else in me that I feel sorry about I just can't decide whether I really care about making it big or if I just wanna hop on that thing and go home. Be home with my cats, keep on with my kids All by myself, I thickness will gave up. Be home with my kids, it was difficult. mess-up, it was difficult. Yes, they are too учu for us Inavailable Surround all my life I find a way to just not talk about it Andai kamu ada selamanya Takkan siap hadapi harinya Dan saat tiba waktuku juga Kan ku panggil kau di atas Cause I got no answer I just can't decide Aku punya jawaban I just can't decide Whether I can't care about making it big Or I just wanna go home Be home with my kids Be home with my kids Be home with my kids Be home with my kids Be home with my kids Be home with my kids Be home with my kids",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.28,
+      "text": " Pagi ini sumpah ku kira kucingku bangunkanku dengan kukunya",
+      "tokens": [
+        50365,
+        430,
+        20291,
+        7408,
+        262,
+        1420,
+        545,
+        17807,
+        350,
+        4271,
+        350,
+        1311,
+        278,
+        5279,
+        8550,
+        3197,
+        657,
+        84,
+        13877,
+        350,
+        2034,
+        27521,
+        50639
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2071954330595413,
+      "compression_ratio": 1.5485436893203883,
+      "no_speech_prob": 0.044273316860198975,
+      "words": [
+        {
+          "word": " Pagi",
+          "start": 0.0,
+          "end": 0.72,
+          "probability": 0.8777351379394531
+        },
+        {
+          "word": " ini",
+          "start": 0.72,
+          "end": 1.14,
+          "probability": 0.9934459328651428
+        },
+        {
+          "word": " sumpah",
+          "start": 1.14,
+          "end": 1.86,
+          "probability": 0.9810875256856283
+        },
+        {
+          "word": " ku",
+          "start": 1.86,
+          "end": 2.04,
+          "probability": 0.7711395621299744
+        },
+        {
+          "word": " kira",
+          "start": 2.04,
+          "end": 2.52,
+          "probability": 0.9725381135940552
+        },
+        {
+          "word": " kucingku",
+          "start": 2.52,
+          "end": 3.18,
+          "probability": 0.8588216304779053
+        },
+        {
+          "word": " bangunkanku",
+          "start": 3.18,
+          "end": 4.3,
+          "probability": 0.9267222881317139
+        },
+        {
+          "word": " dengan",
+          "start": 4.3,
+          "end": 4.54,
+          "probability": 0.8747445940971375
+        },
+        {
+          "word": " kukunya",
+          "start": 4.54,
+          "end": 5.28,
+          "probability": 0.9672507246335348
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.28,
+      "end": 11.14,
+      "text": " Hati sedih saat ku sadar diriku sendirian di luar kota",
+      "tokens": [
+        50639,
+        389,
+        6908,
+        9643,
+        4247,
+        23369,
+        17807,
+        4227,
+        289,
+        4746,
+        24320,
+        2845,
+        347,
+        952,
+        1026,
+        10438,
+        289,
+        350,
+        5377,
+        50933
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2071954330595413,
+      "compression_ratio": 1.5485436893203883,
+      "no_speech_prob": 0.044273316860198975,
+      "words": [
+        {
+          "word": " Hati",
+          "start": 5.28,
+          "end": 6.5,
+          "probability": 0.9836458265781403
+        },
+        {
+          "word": " sedih",
+          "start": 6.5,
+          "end": 7.12,
+          "probability": 0.9981349408626556
+        },
+        {
+          "word": " saat",
+          "start": 7.12,
+          "end": 7.42,
+          "probability": 0.9950686693191528
+        },
+        {
+          "word": " ku",
+          "start": 7.42,
+          "end": 7.82,
+          "probability": 0.9602261781692505
+        },
+        {
+          "word": " sadar",
+          "start": 7.82,
+          "end": 8.32,
+          "probability": 0.9995414018630981
+        },
+        {
+          "word": " diriku",
+          "start": 8.32,
+          "end": 8.8,
+          "probability": 0.9955835938453674
+        },
+        {
+          "word": " sendirian",
+          "start": 8.8,
+          "end": 9.98,
+          "probability": 0.9834054112434387
+        },
+        {
+          "word": " di",
+          "start": 9.98,
+          "end": 10.14,
+          "probability": 0.9201176762580872
+        },
+        {
+          "word": " luar",
+          "start": 10.14,
+          "end": 10.78,
+          "probability": 0.9996140897274017
+        },
+        {
+          "word": " kota",
+          "start": 10.78,
+          "end": 11.14,
+          "probability": 0.9982463121414185
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.14,
+      "end": 17.0,
+      "text": " Far far away from my responsibility of feeding them on time",
+      "tokens": [
+        50933,
+        9067,
+        1400,
+        1314,
+        490,
+        452,
+        6357,
+        295,
+        12919,
+        552,
+        322,
+        565,
+        51226
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2071954330595413,
+      "compression_ratio": 1.5485436893203883,
+      "no_speech_prob": 0.044273316860198975,
+      "words": [
+        {
+          "word": " Far",
+          "start": 11.14,
+          "end": 12.6,
+          "probability": 0.9827569723129272
+        },
+        {
+          "word": " far",
+          "start": 12.6,
+          "end": 12.9,
+          "probability": 0.8395386338233948
+        },
+        {
+          "word": " away",
+          "start": 12.9,
+          "end": 13.24,
+          "probability": 0.9963276982307434
+        },
+        {
+          "word": " from",
+          "start": 13.24,
+          "end": 13.64,
+          "probability": 0.9973999261856079
+        },
+        {
+          "word": " my",
+          "start": 13.64,
+          "end": 13.8,
+          "probability": 0.541291356086731
+        },
+        {
+          "word": " responsibility",
+          "start": 13.8,
+          "end": 14.66,
+          "probability": 0.9040446877479553
+        },
+        {
+          "word": " of",
+          "start": 14.66,
+          "end": 15.54,
+          "probability": 0.9949144124984741
+        },
+        {
+          "word": " feeding",
+          "start": 15.54,
+          "end": 15.86,
+          "probability": 0.9992075562477112
+        },
+        {
+          "word": " them",
+          "start": 15.86,
+          "end": 16.2,
+          "probability": 0.9988231062889099
+        },
+        {
+          "word": " all on",
+          "start": 16.2,
+          "end": 16.52,
+          "probability": 0.9239685535430908
+        },
+        {
+          "word": " time",
+          "start": 16.52,
+          "end": 17.0,
+          "probability": 0.9994997978210449
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.0,
+      "end": 22.9,
+      "text": " Right now so close I know I'm getting what I want I think I need summer dimes",
+      "tokens": [
+        51226,
+        1779,
+        586,
+        370,
+        1998,
+        286,
+        458,
+        286,
+        478,
+        1242,
+        437,
+        286,
+        528,
+        286,
+        519,
+        286,
+        643,
+        4266,
+        274,
+        1532,
+        51525
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2071954330595413,
+      "compression_ratio": 1.5485436893203883,
+      "no_speech_prob": 0.044273316860198975,
+      "words": [
+        {
+          "word": " Right",
+          "start": 17.0,
+          "end": 18.36,
+          "probability": 0.9950101375579834
+        },
+        {
+          "word": " now",
+          "start": 18.36,
+          "end": 18.72,
+          "probability": 0.9991570711135864
+        },
+        {
+          "word": " so",
+          "start": 18.72,
+          "end": 18.96,
+          "probability": 0.9783103466033936
+        },
+        {
+          "word": " close",
+          "start": 18.96,
+          "end": 19.24,
+          "probability": 0.9996534585952759
+        },
+        {
+          "word": " I",
+          "start": 19.24,
+          "end": 19.44,
+          "probability": 0.9222576022148132
+        },
+        {
+          "word": " know",
+          "start": 19.44,
+          "end": 19.56,
+          "probability": 0.9986458420753479
+        },
+        {
+          "word": " I'm",
+          "start": 19.56,
+          "end": 19.98,
+          "probability": 0.9985907673835754
+        },
+        {
+          "word": " getting",
+          "start": 19.98,
+          "end": 20.18,
+          "probability": 0.9982642531394958
+        },
+        {
+          "word": " what",
+          "start": 20.18,
+          "end": 20.52,
+          "probability": 0.22801505029201508
+        },
+        {
+          "word": " I",
+          "start": 20.52,
+          "end": 20.92,
+          "probability": 0.9996817111968994
+        },
+        {
+          "word": " want",
+          "start": 20.92,
+          "end": 21.1,
+          "probability": 0.9990445971488953
+        },
+        {
+          "word": " I",
+          "start": 21.1,
+          "end": 21.26,
+          "probability": 0.9343895316123962
+        },
+        {
+          "word": " think",
+          "start": 21.26,
+          "end": 21.56,
+          "probability": 0.9996627569198608
+        },
+        {
+          "word": " I",
+          "start": 21.56,
+          "end": 21.76,
+          "probability": 0.9993098974227905
+        },
+        {
+          "word": " need",
+          "start": 21.76,
+          "end": 21.98,
+          "probability": 0.9988425970077515
+        },
+        {
+          "word": " some more",
+          "start": 21.98,
+          "end": 22.32,
+          "probability": 0.5519990921020508
+        },
+        {
+          "word": " dimes",
+          "start": 22.32,
+          "end": 22.9,
+          "probability": 0.8268898725509644
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 22.9,
+      "end": 28.58,
+      "text": " Dan kadang ku takut kurang wangkan waktu di rumah ku mimi dan deti",
+      "tokens": [
+        51525,
+        3394,
+        8064,
+        656,
+        17807,
+        991,
+        325,
+        10072,
+        656,
+        261,
+        656,
+        5225,
+        44782,
+        1026,
+        44988,
+        17807,
+        275,
+        10121,
+        3277,
+        1141,
+        72,
+        51797
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2071954330595413,
+      "compression_ratio": 1.5485436893203883,
+      "no_speech_prob": 0.044273316860198975,
+      "words": [
+        {
+          "word": " Dan",
+          "start": 22.9,
+          "end": 23.72,
+          "probability": 0.9910458922386169
+        },
+        {
+          "word": " kadang",
+          "start": 23.72,
+          "end": 24.24,
+          "probability": 0.999089390039444
+        },
+        {
+          "word": " ku",
+          "start": 24.24,
+          "end": 24.5,
+          "probability": 0.960727870464325
+        },
+        {
+          "word": " takut",
+          "start": 24.5,
+          "end": 25.02,
+          "probability": 0.9869533479213715
+        },
+        {
+          "word": " kurang",
+          "start": 25.02,
+          "end": 25.42,
+          "probability": 0.9885758459568024
+        },
+        {
+          "word": " luangkan",
+          "start": 25.42,
+          "end": 25.9,
+          "probability": 0.8359447916348776
+        },
+        {
+          "word": " waktu",
+          "start": 25.9,
+          "end": 26.16,
+          "probability": 0.9994869232177734
+        },
+        {
+          "word": " di",
+          "start": 26.16,
+          "end": 26.66,
+          "probability": 0.858187198638916
+        },
+        {
+          "word": " rumah",
+          "start": 26.66,
+          "end": 27.02,
+          "probability": 0.9995241165161133
+        },
+        {
+          "word": " tuk",
+          "start": 27.02,
+          "end": 27.32,
+          "probability": 0.38393256068229675
+        },
+        {
+          "word": " mimi",
+          "start": 27.32,
+          "end": 27.66,
+          "probability": 0.6186504438519478
+        },
+        {
+          "word": " dan",
+          "start": 27.66,
+          "end": 28.1,
+          "probability": 0.9975904226303101
+        },
+        {
+          "word": " beti",
+          "start": 28.1,
+          "end": 28.58,
+          "probability": 0.7188612222671509
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2858,
+      "start": 28.58,
+      "end": 34.2,
+      "text": " Terlambat sadar bahwa sepanjang hidup mereka hanya punya diriku",
+      "tokens": [
+        50365,
+        6564,
+        75,
+        2173,
+        267,
+        4227,
+        289,
+        12913,
+        4151,
+        369,
+        6040,
+        26925,
+        16253,
+        1010,
+        23171,
+        46291,
+        32781,
+        4746,
+        24320,
+        50660
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2680721055893671,
+      "compression_ratio": 1.5368421052631578,
+      "no_speech_prob": 0.006598925217986107,
+      "words": [
+        {
+          "word": " Terlambat",
+          "start": 28.58,
+          "end": 29.98,
+          "probability": 0.9810948222875595
+        },
+        {
+          "word": " sadar",
+          "start": 29.98,
+          "end": 30.5,
+          "probability": 0.9978075921535492
+        },
+        {
+          "word": " bahwa",
+          "start": 30.5,
+          "end": 30.98,
+          "probability": 0.9953614771366119
+        },
+        {
+          "word": " sepanjang",
+          "start": 30.98,
+          "end": 31.72,
+          "probability": 0.992715080579122
+        },
+        {
+          "word": " hidup",
+          "start": 31.72,
+          "end": 32.12,
+          "probability": 0.9984679818153381
+        },
+        {
+          "word": " mereka",
+          "start": 32.12,
+          "end": 32.46,
+          "probability": 0.9409250020980835
+        },
+        {
+          "word": " hanya",
+          "start": 32.46,
+          "end": 32.98,
+          "probability": 0.9941296577453613
+        },
+        {
+          "word": " punya",
+          "start": 32.98,
+          "end": 33.44,
+          "probability": 0.998842716217041
+        },
+        {
+          "word": " diriku",
+          "start": 33.44,
+          "end": 34.2,
+          "probability": 0.9575595557689667
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2858,
+      "start": 34.2,
+      "end": 40.22,
+      "text": " Or maybe I made one too many mistakes just wanna feel them for one last time",
+      "tokens": [
+        50660,
+        1610,
+        1310,
+        286,
+        1027,
+        472,
+        886,
+        867,
+        8038,
+        445,
+        1948,
+        841,
+        552,
+        337,
+        472,
+        1036,
+        565,
+        50943
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2680721055893671,
+      "compression_ratio": 1.5368421052631578,
+      "no_speech_prob": 0.006598925217986107,
+      "words": [
+        {
+          "word": " Or",
+          "start": 34.2,
+          "end": 35.4,
+          "probability": 0.8349025249481201
+        },
+        {
+          "word": " maybe",
+          "start": 35.4,
+          "end": 35.76,
+          "probability": 0.998201847076416
+        },
+        {
+          "word": " I",
+          "start": 35.76,
+          "end": 36.24,
+          "probability": 0.9684325456619263
+        },
+        {
+          "word": " made",
+          "start": 36.24,
+          "end": 36.52,
+          "probability": 0.8716420531272888
+        },
+        {
+          "word": " one",
+          "start": 36.52,
+          "end": 36.76,
+          "probability": 0.396818608045578
+        },
+        {
+          "word": " too",
+          "start": 36.76,
+          "end": 36.98,
+          "probability": 0.9768945574760437
+        },
+        {
+          "word": " many",
+          "start": 36.98,
+          "end": 37.28,
+          "probability": 0.9998558759689331
+        },
+        {
+          "word": " mistakes",
+          "start": 37.28,
+          "end": 37.78,
+          "probability": 0.9981984496116638
+        },
+        {
+          "word": " just",
+          "start": 37.78,
+          "end": 38.2,
+          "probability": 0.10584299266338348
+        },
+        {
+          "word": " wanna",
+          "start": 38.2,
+          "end": 38.56,
+          "probability": 0.9643853902816772
+        },
+        {
+          "word": " feel",
+          "start": 38.56,
+          "end": 38.88,
+          "probability": 0.832505464553833
+        },
+        {
+          "word": " their",
+          "start": 38.88,
+          "end": 39.12,
+          "probability": 0.309848815202713
+        },
+        {
+          "word": " purr",
+          "start": 39.12,
+          "end": 39.34,
+          "probability": 0.9818583726882935
+        },
+        {
+          "word": " one",
+          "start": 39.34,
+          "end": 39.62,
+          "probability": 0.998263418674469
+        },
+        {
+          "word": " last",
+          "start": 39.62,
+          "end": 39.86,
+          "probability": 0.9968324303627014
+        },
+        {
+          "word": " time",
+          "start": 39.86,
+          "end": 40.22,
+          "probability": 0.9999451637268066
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2858,
+      "start": 41.080000000000005,
+      "end": 46.02,
+      "text": " Always I hope that I did them okay I gave them enough love and a life",
+      "tokens": [
+        50998,
+        11270,
+        286,
+        1454,
+        300,
+        286,
+        630,
+        552,
+        1392,
+        286,
+        2729,
+        552,
+        1547,
+        959,
+        293,
+        257,
+        993,
+        51248
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2680721055893671,
+      "compression_ratio": 1.5368421052631578,
+      "no_speech_prob": 0.006598925217986107,
+      "words": [
+        {
+          "word": " Always",
+          "start": 41.080000000000005,
+          "end": 41.84,
+          "probability": 0.5414338111877441
+        },
+        {
+          "word": " I",
+          "start": 41.84,
+          "end": 42.2,
+          "probability": 0.9736843109130859
+        },
+        {
+          "word": " hope",
+          "start": 42.2,
+          "end": 42.44,
+          "probability": 0.8928405046463013
+        },
+        {
+          "word": " that",
+          "start": 42.44,
+          "end": 42.62,
+          "probability": 0.9988191723823547
+        },
+        {
+          "word": " I",
+          "start": 42.62,
+          "end": 42.8,
+          "probability": 0.931820809841156
+        },
+        {
+          "word": " did",
+          "start": 42.8,
+          "end": 43.02,
+          "probability": 0.9608732461929321
+        },
+        {
+          "word": " them",
+          "start": 43.02,
+          "end": 43.32,
+          "probability": 0.9965742826461792
+        },
+        {
+          "word": " okay",
+          "start": 43.32,
+          "end": 43.64,
+          "probability": 0.864602267742157
+        },
+        {
+          "word": " I",
+          "start": 43.64,
+          "end": 44.02,
+          "probability": 0.38091057538986206
+        },
+        {
+          "word": " gave",
+          "start": 44.02,
+          "end": 44.24,
+          "probability": 0.8594120740890503
+        },
+        {
+          "word": " them",
+          "start": 44.24,
+          "end": 44.48,
+          "probability": 0.9944308400154114
+        },
+        {
+          "word": " enough",
+          "start": 44.48,
+          "end": 44.9,
+          "probability": 0.9952829480171204
+        },
+        {
+          "word": " love",
+          "start": 44.9,
+          "end": 45.28,
+          "probability": 0.9755149483680725
+        },
+        {
+          "word": " and",
+          "start": 45.28,
+          "end": 45.5,
+          "probability": 0.9421630501747131
+        },
+        {
+          "word": " a",
+          "start": 45.5,
+          "end": 45.62,
+          "probability": 0.4309229552745819
+        },
+        {
+          "word": " life",
+          "start": 45.62,
+          "end": 46.02,
+          "probability": 0.9818277955055237
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2858,
+      "start": 47.120000000000005,
+      "end": 53.06,
+      "text": " You know I got no answer I just can't decide",
+      "tokens": [
+        51248,
+        509,
+        458,
+        286,
+        658,
+        572,
+        1867,
+        286,
+        445,
+        393,
+        380,
+        4536,
+        51615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2680721055893671,
+      "compression_ratio": 1.5368421052631578,
+      "no_speech_prob": 0.006598925217986107,
+      "words": [
+        {
+          "word": " No",
+          "start": 47.120000000000005,
+          "end": 47.88,
+          "probability": 0.47945329546928406
+        },
+        {
+          "word": "oo",
+          "start": 47.88,
+          "end": 48.2,
+          "probability": 0.9999518394470215
+        },
+        {
+          "word": " I",
+          "start": 48.2,
+          "end": 48.58,
+          "probability": 0.9992995262145996
+        },
+        {
+          "word": " got",
+          "start": 48.58,
+          "end": 48.98,
+          "probability": 0.9994432330131531
+        },
+        {
+          "word": " no",
+          "start": 48.98,
+          "end": 49.62,
+          "probability": 0.9993613362312317
+        },
+        {
+          "word": " answer",
+          "start": 49.62,
+          "end": 50.8,
+          "probability": 0.9986802935600281
+        },
+        {
+          "word": " I",
+          "start": 50.8,
+          "end": 51.74,
+          "probability": 0.8182676434516907
+        },
+        {
+          "word": " just",
+          "start": 51.74,
+          "end": 52.06,
+          "probability": 0.9998630285263062
+        },
+        {
+          "word": " can't",
+          "start": 52.06,
+          "end": 52.64,
+          "probability": 0.9939765632152557
+        },
+        {
+          "word": " decide",
+          "start": 52.64,
+          "end": 53.06,
+          "probability": 0.9995396137237549
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2858,
+      "start": 55.2,
+      "end": 56.72,
+      "text": " Takpunya jawaban",
+      "tokens": [
+        51615,
+        9118,
+        325,
+        7457,
+        18162,
+        18165,
+        51782
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2680721055893671,
+      "compression_ratio": 1.5368421052631578,
+      "no_speech_prob": 0.006598925217986107,
+      "words": [
+        {
+          "word": " Takpunya",
+          "start": 55.2,
+          "end": 55.96,
+          "probability": 0.7376054525375366
+        },
+        {
+          "word": " jawaban",
+          "start": 55.96,
+          "end": 56.72,
+          "probability": 0.7159302532672882
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2858,
+      "start": 56.72,
+      "end": 58.56,
+      "text": " I just can't decide",
+      "tokens": [
+        51782,
+        286,
+        445,
+        393,
+        380,
+        4536,
+        51843
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2680721055893671,
+      "compression_ratio": 1.5368421052631578,
+      "no_speech_prob": 0.006598925217986107,
+      "words": [
+        {
+          "word": " I",
+          "start": 56.72,
+          "end": 57.52,
+          "probability": 0.9049481749534607
+        },
+        {
+          "word": " just",
+          "start": 57.52,
+          "end": 57.82,
+          "probability": 0.9983651041984558
+        },
+        {
+          "word": " can't",
+          "start": 57.82,
+          "end": 58.42,
+          "probability": 0.9915001094341278
+        },
+        {
+          "word": " decide",
+          "start": 58.42,
+          "end": 58.56,
+          "probability": 0.9697155952453613
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5858,
+      "start": 58.58,
+      "end": 66.3,
+      "text": " Whether I really care about making it big or if I just wanna hop on that thing and go home",
+      "tokens": [
+        50365,
+        8503,
+        286,
+        534,
+        1127,
+        466,
+        1455,
+        309,
+        955,
+        420,
+        498,
+        286,
+        445,
+        1948,
+        3818,
+        322,
+        300,
+        551,
+        293,
+        352,
+        1280,
+        50780
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22490472263760036,
+      "compression_ratio": 1.5862068965517242,
+      "no_speech_prob": 0.04583093896508217,
+      "words": [
+        {
+          "word": " Whether",
+          "start": 58.58,
+          "end": 59.4,
+          "probability": 0.00035939979716204107
+        },
+        {
+          "word": " I",
+          "start": 59.4,
+          "end": 60.28,
+          "probability": 0.9655287265777588
+        },
+        {
+          "word": " really",
+          "start": 60.28,
+          "end": 60.74,
+          "probability": 0.8995893001556396
+        },
+        {
+          "word": " care",
+          "start": 60.74,
+          "end": 61.08,
+          "probability": 0.9979902505874634
+        },
+        {
+          "word": " about",
+          "start": 61.08,
+          "end": 61.52,
+          "probability": 0.9760161638259888
+        },
+        {
+          "word": " making",
+          "start": 61.52,
+          "end": 62.02,
+          "probability": 0.9637627005577087
+        },
+        {
+          "word": " it",
+          "start": 62.02,
+          "end": 62.26,
+          "probability": 0.9401736259460449
+        },
+        {
+          "word": " big",
+          "start": 62.26,
+          "end": 62.56,
+          "probability": 0.9959779381752014
+        },
+        {
+          "word": " or",
+          "start": 62.56,
+          "end": 62.82,
+          "probability": 0.4023410379886627
+        },
+        {
+          "word": " if",
+          "start": 62.82,
+          "end": 63.02,
+          "probability": 0.3439921736717224
+        },
+        {
+          "word": " I",
+          "start": 63.02,
+          "end": 63.22,
+          "probability": 0.9983786344528198
+        },
+        {
+          "word": " realy just",
+          "start": 63.22,
+          "end": 63.62,
+          "probability": 0.9716073274612427
+        },
+        {
+          "word": " wanna",
+          "start": 63.62,
+          "end": 64.32,
+          "probability": 0.8245598673820496
+        },
+        {
+          "word": " hop",
+          "start": 64.32,
+          "end": 64.66,
+          "probability": 0.8063503503799438
+        },
+        {
+          "word": " on",
+          "start": 64.66,
+          "end": 65.0,
+          "probability": 0.9947453737258911
+        },
+        {
+          "word": " that",
+          "start": 65.0,
+          "end": 65.16,
+          "probability": 0.4833478331565857
+        },
+        {
+          "word": " plane",
+          "start": 65.16,
+          "end": 65.48,
+          "probability": 0.9446691274642944
+        },
+        {
+          "word": " and",
+          "start": 65.48,
+          "end": 65.68,
+          "probability": 0.9897426962852478
+        },
+        {
+          "word": " go",
+          "start": 65.68,
+          "end": 65.88,
+          "probability": 0.9985484480857849
+        },
+        {
+          "word": " home",
+          "start": 65.88,
+          "end": 66.3,
+          "probability": 0.9152675271034241
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5858,
+      "start": 66.88,
+      "end": 69.38,
+      "text": " Be home with my cats",
+      "tokens": [
+        50780,
+        879,
+        1280,
+        365,
+        452,
+        11111,
+        50944
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22490472263760036,
+      "compression_ratio": 1.5862068965517242,
+      "no_speech_prob": 0.04583093896508217,
+      "words": [
+        {
+          "word": " Be",
+          "start": 66.88,
+          "end": 67.62,
+          "probability": 0.334445059299469
+        },
+        {
+          "word": " home",
+          "start": 67.62,
+          "end": 68.08,
+          "probability": 0.954096257686615
+        },
+        {
+          "word": " with",
+          "start": 68.08,
+          "end": 68.48,
+          "probability": 0.9989466071128845
+        },
+        {
+          "word": " my",
+          "start": 68.48,
+          "end": 68.78,
+          "probability": 0.9996709823608398
+        },
+        {
+          "word": " cats",
+          "start": 68.78,
+          "end": 69.38,
+          "probability": 0.8198469281196594
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5858,
+      "start": 70.16,
+      "end": 72.46,
+      "text": " Be home with my kids",
+      "tokens": [
+        50944,
+        879,
+        1280,
+        365,
+        452,
+        2301,
+        51101
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22490472263760036,
+      "compression_ratio": 1.5862068965517242,
+      "no_speech_prob": 0.04583093896508217,
+      "words": [
+        {
+          "word": " Be",
+          "start": 70.08,
+          "end": 70.42,
+          "probability": 0.3358440101146698
+        },
+        {
+          "word": " home",
+          "start": 70.42,
+          "end": 70.96,
+          "probability": 0.99989914894104
+        },
+        {
+          "word": " with",
+          "start": 70.96,
+          "end": 71.38,
+          "probability": 0.9997881054878235
+        },
+        {
+          "word": " my",
+          "start": 71.38,
+          "end": 71.72,
+          "probability": 0.9996874332427979
+        },
+        {
+          "word": " kids",
+          "start": 71.72,
+          "end": 72.46,
+          "probability": 0.7522299885749817
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5858,
+      "start": 76.84,
+      "end": 82.12,
+      "text": " Maybe I made one too many mistakes just wanna feel them for one last time",
+      "tokens": [
+        51101,
+        2704,
+        286,
+        1027,
+        472,
+        886,
+        867,
+        8038,
+        445,
+        1948,
+        841,
+        552,
+        337,
+        472,
+        1036,
+        565,
+        51552
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22490472263760036,
+      "compression_ratio": 1.5862068965517242,
+      "no_speech_prob": 0.04583093896508217,
+      "words": [
+        {
+          "word": " Maybe",
+          "start": 76.84,
+          "end": 77.52000000000001,
+          "probability": 0.9104561805725098
+        },
+        {
+          "word": " I",
+          "start": 77.52000000000001,
+          "end": 78.2,
+          "probability": 0.9983007311820984
+        },
+        {
+          "word": " made",
+          "start": 78.2,
+          "end": 78.44,
+          "probability": 0.9398335218429565
+        },
+        {
+          "word": " one",
+          "start": 78.44,
+          "end": 78.68,
+          "probability": 0.23208577930927277
+        },
+        {
+          "word": " too",
+          "start": 78.68,
+          "end": 78.86,
+          "probability": 0.9317003488540649
+        },
+        {
+          "word": " many",
+          "start": 78.86,
+          "end": 79.18,
+          "probability": 0.9996360540390015
+        },
+        {
+          "word": " mistakes",
+          "start": 79.18,
+          "end": 79.7,
+          "probability": 0.9993263483047485
+        },
+        {
+          "word": " just",
+          "start": 79.7,
+          "end": 80.14,
+          "probability": 0.08509069681167603
+        },
+        {
+          "word": " wanna",
+          "start": 80.14,
+          "end": 80.48,
+          "probability": 0.9913684725761414
+        },
+        {
+          "word": " feel",
+          "start": 80.48,
+          "end": 80.82,
+          "probability": 0.9432339668273926
+        },
+        {
+          "word": " their",
+          "start": 80.82,
+          "end": 81.02,
+          "probability": 0.6728668212890625
+        },
+        {
+          "word": " purr",
+          "start": 81.02,
+          "end": 81.22,
+          "probability": 0.9732821583747864
+        },
+        {
+          "word": " one",
+          "start": 81.22,
+          "end": 81.6,
+          "probability": 0.9927659034729004
+        },
+        {
+          "word": " last",
+          "start": 81.6,
+          "end": 81.8,
+          "probability": 0.9778027534484863
+        },
+        {
+          "word": " time",
+          "start": 81.8,
+          "end": 82.12,
+          "probability": 0.9999439716339111
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5858,
+      "start": 83.02000000000001,
+      "end": 87.84,
+      "text": " Always I hope that I did them okay I gave them enough love and a life",
+      "tokens": [
+        51552,
+        11270,
+        286,
+        1454,
+        300,
+        286,
+        630,
+        552,
+        1392,
+        286,
+        2729,
+        552,
+        1547,
+        959,
+        293,
+        257,
+        993,
+        51848
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22490472263760036,
+      "compression_ratio": 1.5862068965517242,
+      "no_speech_prob": 0.04583093896508217,
+      "words": [
+        {
+          "word": " Always",
+          "start": 83.02000000000001,
+          "end": 83.7,
+          "probability": 0.9831530451774597
+        },
+        {
+          "word": " I",
+          "start": 83.7,
+          "end": 84.1,
+          "probability": 0.9582804441452026
+        },
+        {
+          "word": " hope",
+          "start": 84.1,
+          "end": 84.34,
+          "probability": 0.8946608901023865
+        },
+        {
+          "word": " that",
+          "start": 84.34,
+          "end": 84.52,
+          "probability": 0.998818576335907
+        },
+        {
+          "word": " I",
+          "start": 84.52,
+          "end": 84.72,
+          "probability": 0.9983919262886047
+        },
+        {
+          "word": " did",
+          "start": 84.72,
+          "end": 84.96,
+          "probability": 0.9970846772193909
+        },
+        {
+          "word": " them",
+          "start": 84.96,
+          "end": 85.24,
+          "probability": 0.998830258846283
+        },
+        {
+          "word": " okay",
+          "start": 85.24,
+          "end": 85.52,
+          "probability": 0.9063107371330261
+        },
+        {
+          "word": " I",
+          "start": 85.52,
+          "end": 85.88,
+          "probability": 0.005762104410678148
+        },
+        {
+          "word": " gave",
+          "start": 85.88,
+          "end": 86.18,
+          "probability": 0.8578688502311707
+        },
+        {
+          "word": " them",
+          "start": 86.18,
+          "end": 86.42,
+          "probability": 0.9333785176277161
+        },
+        {
+          "word": " enough",
+          "start": 86.42,
+          "end": 86.8,
+          "probability": 0.9996379613876343
+        },
+        {
+          "word": " love",
+          "start": 86.8,
+          "end": 87.12,
+          "probability": 0.8890503644943237
+        },
+        {
+          "word": " and",
+          "start": 87.12,
+          "end": 87.4,
+          "probability": 0.42321816086769104
+        },
+        {
+          "word": " a",
+          "start": 87.4,
+          "end": 87.56,
+          "probability": 0.3854331076145172
+        },
+        {
+          "word": " life",
+          "start": 87.56,
+          "end": 87.84,
+          "probability": 0.8446599841117859
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 8858,
+      "start": 88.58,
+      "end": 93.88,
+      "text": " Because I need summer and I feel like it was fundamental for me",
+      "tokens": [
+        50365,
+        1436,
+        286,
+        643,
+        4266,
+        293,
+        286,
+        841,
+        411,
+        309,
+        390,
+        8088,
+        337,
+        385,
+        50866
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.7965485401642627,
+      "compression_ratio": 1.7218045112781954,
+      "no_speech_prob": 0.044250454753637314,
+      "words": [
+        {
+          "word": " Because",
+          "start": 88.58,
+          "end": 90.02,
+          "probability": 0.00011706513760145754
+        },
+        {
+          "word": " I",
+          "start": 90.02,
+          "end": 90.02,
+          "probability": 0.11628555506467819
+        },
+        {
+          "word": " need",
+          "start": 90.02,
+          "end": 92.14,
+          "probability": 0.011713188141584396
+        },
+        {
+          "word": " summer",
+          "start": 92.14,
+          "end": 92.14,
+          "probability": 3.823753104370553e-06
+        },
+        {
+          "word": " and",
+          "start": 92.14,
+          "end": 92.14,
+          "probability": 0.014046159572899342
+        },
+        {
+          "word": " I",
+          "start": 92.14,
+          "end": 92.98,
+          "probability": 0.22317662835121155
+        },
+        {
+          "word": " feel",
+          "start": 92.98,
+          "end": 93.88,
+          "probability": 0.008543136529624462
+        },
+        {
+          "word": " like",
+          "start": 93.88,
+          "end": 93.88,
+          "probability": 0.2918732762336731
+        },
+        {
+          "word": " it",
+          "start": 93.88,
+          "end": 93.88,
+          "probability": 0.1181243434548378
+        },
+        {
+          "word": " was",
+          "start": 93.88,
+          "end": 93.88,
+          "probability": 0.006751052103936672
+        },
+        {
+          "word": " fundamental",
+          "start": 93.88,
+          "end": 93.88,
+          "probability": 9.901298653858248e-06
+        },
+        {
+          "word": " for",
+          "start": 93.88,
+          "end": 93.88,
+          "probability": 0.11197967082262039
+        },
+        {
+          "word": " me",
+          "start": 93.88,
+          "end": 93.88,
+          "probability": 0.5883364081382751
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 8858,
+      "start": 93.88,
+      "end": 95.66,
+      "text": " I can't wait to be done with these things",
+      "tokens": [
+        50866,
+        286,
+        393,
+        380,
+        1699,
+        281,
+        312,
+        1096,
+        365,
+        613,
+        721,
+        51030
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.7965485401642627,
+      "compression_ratio": 1.7218045112781954,
+      "no_speech_prob": 0.044250454753637314,
+      "words": [
+        {
+          "word": " I",
+          "start": 93.88,
+          "end": 93.88,
+          "probability": 0.0081800427287817
+        },
+        {
+          "word": " can't",
+          "start": 93.88,
+          "end": 94.12,
+          "probability": 0.29368137288838625
+        },
+        {
+          "word": " wait",
+          "start": 94.12,
+          "end": 94.64,
+          "probability": 0.09855937957763672
+        },
+        {
+          "word": " to",
+          "start": 94.64,
+          "end": 95.66,
+          "probability": 0.44352710247039795
+        },
+        {
+          "word": " be",
+          "start": 95.66,
+          "end": 95.66,
+          "probability": 0.11496470123529434
+        },
+        {
+          "word": " done",
+          "start": 95.66,
+          "end": 95.66,
+          "probability": 0.0023886181879788637
+        },
+        {
+          "word": " with",
+          "start": 95.66,
+          "end": 95.66,
+          "probability": 0.617877185344696
+        },
+        {
+          "word": " these",
+          "start": 95.66,
+          "end": 95.66,
+          "probability": 0.011397818103432655
+        },
+        {
+          "word": " things",
+          "start": 95.66,
+          "end": 95.66,
+          "probability": 0.08107953518629074
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 8858,
+      "start": 95.66,
+      "end": 98.0,
+      "text": " From Gr嵩nki,変 jalan lagi",
+      "tokens": [
+        51030,
+        3358,
+        2606,
+        161,
+        113,
+        102,
+        77,
+        2984,
+        11,
+        40931,
+        361,
+        14163,
+        17742,
+        51159
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.7965485401642627,
+      "compression_ratio": 1.7218045112781954,
+      "no_speech_prob": 0.044250454753637314,
+      "words": [
+        {
+          "word": " From",
+          "start": 95.66,
+          "end": 95.66,
+          "probability": 0.0005438152002170682
+        },
+        {
+          "word": " Gr嵩nki",
+          "start": 95.66,
+          "end": 96.84,
+          "probability": 0.10119610317330323
+        },
+        {
+          "word": ",変",
+          "start": 96.84,
+          "end": 97.18,
+          "probability": 0.02957029511435394
+        },
+        {
+          "word": " jalan",
+          "start": 97.18,
+          "end": 97.36,
+          "probability": 0.34394165128469467
+        },
+        {
+          "word": " lagi",
+          "start": 97.36,
+          "end": 98.0,
+          "probability": 0.007862303406000137
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 8858,
+      "start": 98.0,
+      "end": 98.0,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -2.7965485401642627,
+      "compression_ratio": 1.7218045112781954,
+      "no_speech_prob": 0.044250454753637314,
+      "words": []
+    },
+    {
+      "id": 20,
+      "seek": 8858,
+      "start": 98.0,
+      "end": 98.0,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -2.7965485401642627,
+      "compression_ratio": 1.7218045112781954,
+      "no_speech_prob": 0.044250454753637314,
+      "words": []
+    },
+    {
+      "id": 21,
+      "seek": 8858,
+      "start": 98.0,
+      "end": 98.0,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -2.7965485401642627,
+      "compression_ratio": 1.7218045112781954,
+      "no_speech_prob": 0.044250454753637314,
+      "words": []
+    },
+    {
+      "id": 22,
+      "seek": 8858,
+      "start": 109.86,
+      "end": 112.74,
+      "text": " And I want to keep talking about that",
+      "tokens": [
+        51429,
+        400,
+        286,
+        528,
+        281,
+        1066,
+        1417,
+        466,
+        300,
+        51573
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.7965485401642627,
+      "compression_ratio": 1.7218045112781954,
+      "no_speech_prob": 0.044250454753637314,
+      "words": []
+    },
+    {
+      "id": 23,
+      "seek": 8858,
+      "start": 112.74,
+      "end": 115.82,
+      "text": " I don't want to sweet talk about marriage",
+      "tokens": [
+        51573,
+        286,
+        500,
+        380,
+        528,
+        281,
+        3844,
+        751,
+        466,
+        7194,
+        51727
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.7965485401642627,
+      "compression_ratio": 1.7218045112781954,
+      "no_speech_prob": 0.044250454753637314,
+      "words": []
+    },
+    {
+      "id": 24,
+      "seek": 8858,
+      "start": 115.82,
+      "end": 117.84,
+      "text": " I want to share the difference between us lol",
+      "tokens": [
+        51727,
+        286,
+        528,
+        281,
+        2073,
+        264,
+        2649,
+        1296,
+        505,
+        10065,
+        51828
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.7965485401642627,
+      "compression_ratio": 1.7218045112781954,
+      "no_speech_prob": 0.044250454753637314,
+      "words": []
+    },
+    {
+      "id": 25,
+      "seek": 8858,
+      "start": 117.84,
+      "end": 118.38,
+      "text": " There's something else in me that I feel sorry about",
+      "tokens": [
+        51828,
+        821,
+        311,
+        746,
+        1646,
+        294,
+        385,
+        300,
+        286,
+        841,
+        2597,
+        466,
+        51855
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.7965485401642627,
+      "compression_ratio": 1.7218045112781954,
+      "no_speech_prob": 0.044250454753637314,
+      "words": []
+    },
+    {
+      "id": 26,
+      "seek": 8858,
+      "start": 118.38,
+      "end": 118.5,
+      "text": " I just can't decide whether I really care about making it big or if I just wanna hop on that thing and go home. Be home with my cats, keep on with my kids All by myself, I thickness will gave up. Be home with my kids, it was difficult. mess-up, it was difficult. Yes, they are too учu for us",
+      "tokens": [
+        51855,
+        286,
+        445,
+        393,
+        380,
+        4536,
+        1968,
+        286,
+        534,
+        1127,
+        466,
+        1455,
+        309,
+        955,
+        420,
+        498,
+        286,
+        445,
+        1948,
+        3818,
+        322,
+        300,
+        551,
+        293,
+        352,
+        1280,
+        13,
+        879,
+        1280,
+        365,
+        452,
+        11111,
+        11,
+        1066,
+        322,
+        365,
+        452,
+        2301,
+        1057,
+        538,
+        2059,
+        11,
+        286,
+        14855,
+        486,
+        2729,
+        493,
+        13,
+        879,
+        1280,
+        365,
+        452,
+        2301,
+        11,
+        309,
+        390,
+        2252,
+        13,
+        2082,
+        12,
+        1010,
+        11,
+        309,
+        390,
+        2252,
+        13,
+        1079,
+        11,
+        436,
+        366,
+        886,
+        13774,
+        84,
+        337,
+        505,
+        51861
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.7965485401642627,
+      "compression_ratio": 1.7218045112781954,
+      "no_speech_prob": 0.044250454753637314,
+      "words": []
+    },
+    {
+      "id": 27,
+      "seek": 11858,
+      "start": 118.58,
+      "end": 119.34,
+      "text": " Inavailable",
+      "tokens": [
+        50365,
+        682,
+        706,
+        32699,
+        50416
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35533240533644156,
+      "compression_ratio": 1.5029239766081872,
+      "no_speech_prob": 0.34516945481300354,
+      "words": [
+        {
+          "word": " inevitable",
+          "start": 118.58,
+          "end": 119.34,
+          "probability": 0.41790796133379143
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 11858,
+      "start": 120.66,
+      "end": 122.84,
+      "text": " Surround all my life",
+      "tokens": [
+        50416,
+        6732,
+        5453,
+        439,
+        452,
+        993,
+        50601
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35533240533644156,
+      "compression_ratio": 1.5029239766081872,
+      "no_speech_prob": 0.34516945481300354,
+      "words": [
+        {
+          "word": " Surround",
+          "start": 120.66,
+          "end": 121.44,
+          "probability": 0.11972516402602196
+        },
+        {
+          "word": " all",
+          "start": 121.44,
+          "end": 121.98,
+          "probability": 0.7179210782051086
+        },
+        {
+          "word": " my",
+          "start": 121.98,
+          "end": 122.26,
+          "probability": 0.9942757487297058
+        },
+        {
+          "word": " life",
+          "start": 122.26,
+          "end": 122.84,
+          "probability": 0.9965077042579651
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 11858,
+      "start": 122.84,
+      "end": 125.48,
+      "text": " I find a way to just not talk about it",
+      "tokens": [
+        50601,
+        286,
+        915,
+        257,
+        636,
+        281,
+        445,
+        406,
+        751,
+        466,
+        309,
+        50734
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35533240533644156,
+      "compression_ratio": 1.5029239766081872,
+      "no_speech_prob": 0.34516945481300354,
+      "words": [
+        {
+          "word": " I",
+          "start": 122.84,
+          "end": 123.5,
+          "probability": 0.9489687085151672
+        },
+        {
+          "word": " find",
+          "start": 123.5,
+          "end": 123.76,
+          "probability": 0.7502264380455017
+        },
+        {
+          "word": " a",
+          "start": 123.76,
+          "end": 123.92,
+          "probability": 0.9000057578086853
+        },
+        {
+          "word": " way",
+          "start": 123.92,
+          "end": 124.08,
+          "probability": 0.9996486902236938
+        },
+        {
+          "word": " to",
+          "start": 124.08,
+          "end": 124.22,
+          "probability": 0.9498318433761597
+        },
+        {
+          "word": " just",
+          "start": 124.22,
+          "end": 124.44,
+          "probability": 0.9920978546142578
+        },
+        {
+          "word": " not",
+          "start": 124.44,
+          "end": 124.6,
+          "probability": 0.8866037130355835
+        },
+        {
+          "word": " talk",
+          "start": 124.6,
+          "end": 124.84,
+          "probability": 0.9777708649635315
+        },
+        {
+          "word": " about",
+          "start": 124.84,
+          "end": 125.14,
+          "probability": 0.9806066155433655
+        },
+        {
+          "word": " it",
+          "start": 125.14,
+          "end": 125.48,
+          "probability": 0.9992478489875793
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 11858,
+      "start": 125.48,
+      "end": 128.06,
+      "text": " Andai kamu ada selamanya",
+      "tokens": [
+        50734,
+        400,
+        1301,
+        20705,
+        11063,
+        5851,
+        335,
+        8791,
+        50850
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35533240533644156,
+      "compression_ratio": 1.5029239766081872,
+      "no_speech_prob": 0.34516945481300354,
+      "words": [
+        {
+          "word": " Andai",
+          "start": 125.48,
+          "end": 126.62,
+          "probability": 0.8348976969718933
+        },
+        {
+          "word": " kamu",
+          "start": 126.62,
+          "end": 126.9,
+          "probability": 0.9851192831993103
+        },
+        {
+          "word": " ada",
+          "start": 126.9,
+          "end": 127.26,
+          "probability": 0.9953376054763794
+        },
+        {
+          "word": " selamanya",
+          "start": 127.26,
+          "end": 128.06,
+          "probability": 0.9938899477322897
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 11858,
+      "start": 128.06,
+      "end": 131.0,
+      "text": " Takkan siap hadapi harinya",
+      "tokens": [
+        50850,
+        9118,
+        5225,
+        1511,
+        569,
+        632,
+        35891,
+        2233,
+        28507,
+        50994
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35533240533644156,
+      "compression_ratio": 1.5029239766081872,
+      "no_speech_prob": 0.34516945481300354,
+      "words": [
+        {
+          "word": " Takkan",
+          "start": 128.06,
+          "end": 129.54,
+          "probability": 0.7310842871665955
+        },
+        {
+          "word": " siap",
+          "start": 129.54,
+          "end": 129.92,
+          "probability": 0.9874820709228516
+        },
+        {
+          "word": " hadapi",
+          "start": 129.92,
+          "end": 130.3,
+          "probability": 0.9828551709651947
+        },
+        {
+          "word": " harinya",
+          "start": 130.3,
+          "end": 131.0,
+          "probability": 0.9886861145496368
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 11858,
+      "start": 131.0,
+      "end": 133.8,
+      "text": " Dan saat tiba waktuku juga",
+      "tokens": [
+        50994,
+        3394,
+        23369,
+        256,
+        17036,
+        261,
+        5886,
+        24164,
+        14462,
+        51141
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35533240533644156,
+      "compression_ratio": 1.5029239766081872,
+      "no_speech_prob": 0.34516945481300354,
+      "words": [
+        {
+          "word": " Dan",
+          "start": 131.0,
+          "end": 132.14,
+          "probability": 0.9887623190879822
+        },
+        {
+          "word": " saat",
+          "start": 132.14,
+          "end": 132.46,
+          "probability": 0.9972270131111145
+        },
+        {
+          "word": " tiba",
+          "start": 132.46,
+          "end": 132.92,
+          "probability": 0.997709184885025
+        },
+        {
+          "word": " waktuku",
+          "start": 132.92,
+          "end": 133.3,
+          "probability": 0.8699208498001099
+        },
+        {
+          "word": " juga",
+          "start": 133.3,
+          "end": 133.8,
+          "probability": 0.9981657862663269
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 11858,
+      "start": 133.8,
+      "end": 136.22,
+      "text": " Kan ku panggil kau di atas",
+      "tokens": [
+        51141,
+        11120,
+        17807,
+        280,
+        656,
+        29965,
+        36273,
+        1026,
+        412,
+        296,
+        51249
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35533240533644156,
+      "compression_ratio": 1.5029239766081872,
+      "no_speech_prob": 0.34516945481300354,
+      "words": [
+        {
+          "word": " Kan",
+          "start": 133.8,
+          "end": 135.06,
+          "probability": 0.9320747256278992
+        },
+        {
+          "word": " ku",
+          "start": 135.06,
+          "end": 135.2,
+          "probability": 0.6850991249084473
+        },
+        {
+          "word": " panggil",
+          "start": 135.2,
+          "end": 135.6,
+          "probability": 0.9974136352539062
+        },
+        {
+          "word": " kau",
+          "start": 135.6,
+          "end": 135.8,
+          "probability": 0.9851238131523132
+        },
+        {
+          "word": " di",
+          "start": 135.8,
+          "end": 136.0,
+          "probability": 0.9415911436080933
+        },
+        {
+          "word": " atas sana",
+          "start": 136.0,
+          "end": 136.22,
+          "probability": 0.890091747045517
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 11858,
+      "start": 136.22,
+      "end": 139.06,
+      "text": " Cause I got no answer",
+      "tokens": [
+        51249,
+        10865,
+        286,
+        658,
+        572,
+        1867,
+        51404
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35533240533644156,
+      "compression_ratio": 1.5029239766081872,
+      "no_speech_prob": 0.34516945481300354,
+      "words": [
+        {
+          "word": " No",
+          "start": 136.22,
+          "end": 136.34,
+          "probability": 0.05612318590283394
+        },
+        {
+          "word": " I",
+          "start": 136.34,
+          "end": 136.62,
+          "probability": 0.9497620463371277
+        },
+        {
+          "word": " got",
+          "start": 136.62,
+          "end": 136.96,
+          "probability": 0.6796575784683228
+        },
+        {
+          "word": " no",
+          "start": 136.96,
+          "end": 137.76,
+          "probability": 0.9900312423706055
+        },
+        {
+          "word": " answer",
+          "start": 137.76,
+          "end": 139.06,
+          "probability": 0.9956145286560059
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 11858,
+      "start": 139.06,
+      "end": 141.2,
+      "text": " I just can't decide",
+      "tokens": [
+        51404,
+        286,
+        445,
+        393,
+        380,
+        4536,
+        51522
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35533240533644156,
+      "compression_ratio": 1.5029239766081872,
+      "no_speech_prob": 0.34516945481300354,
+      "words": [
+        {
+          "word": " I",
+          "start": 139.06,
+          "end": 139.96,
+          "probability": 0.983864963054657
+        },
+        {
+          "word": " just",
+          "start": 139.96,
+          "end": 140.26,
+          "probability": 0.9985103011131287
+        },
+        {
+          "word": " can't",
+          "start": 140.26,
+          "end": 140.78,
+          "probability": 0.9804934561252594
+        },
+        {
+          "word": " decide",
+          "start": 140.78,
+          "end": 141.2,
+          "probability": 0.9944959282875061
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 11858,
+      "start": 141.72,
+      "end": 144.86,
+      "text": " Tak punya jawaban",
+      "tokens": [
+        51522,
+        41120,
+        32781,
+        18162,
+        18165,
+        51708
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35533240533644156,
+      "compression_ratio": 1.5029239766081872,
+      "no_speech_prob": 0.34516945481300354,
+      "words": [
+        {
+          "word": " Tak",
+          "start": 141.72,
+          "end": 142.4,
+          "probability": 0.5036212801933289
+        },
+        {
+          "word": " punya",
+          "start": 142.4,
+          "end": 143.02,
+          "probability": 0.5045889019966125
+        },
+        {
+          "word": " jawaban",
+          "start": 143.02,
+          "end": 144.86,
+          "probability": 0.9869519770145416
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 11858,
+      "start": 145.44,
+      "end": 146.98,
+      "text": " I just can't decide",
+      "tokens": [
+        51708,
+        286,
+        445,
+        393,
+        380,
+        4536,
+        51819
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35533240533644156,
+      "compression_ratio": 1.5029239766081872,
+      "no_speech_prob": 0.34516945481300354,
+      "words": [
+        {
+          "word": " I",
+          "start": 145.39000000000001,
+          "end": 145.78,
+          "probability": 0.9956412315368652
+        },
+        {
+          "word": " just",
+          "start": 145.78,
+          "end": 146.06,
+          "probability": 0.9998239874839783
+        },
+        {
+          "word": " can't",
+          "start": 146.06,
+          "end": 146.58,
+          "probability": 0.9999312162399292
+        },
+        {
+          "word": " decide",
+          "start": 146.58,
+          "end": 146.98,
+          "probability": 0.9990319013595581
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 14698,
+      "start": 146.98,
+      "end": 151.96,
+      "text": " Whether I can't care about making it big",
+      "tokens": [
+        50365,
+        8503,
+        286,
+        393,
+        380,
+        1127,
+        466,
+        1455,
+        309,
+        955,
+        50645
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3421061115880166,
+      "compression_ratio": 2.235294117647059,
+      "no_speech_prob": 0.1125388815999031,
+      "words": [
+        {
+          "word": " Whether",
+          "start": 146.98,
+          "end": 148.68,
+          "probability": 0.0007517313933931291
+        },
+        {
+          "word": " I",
+          "start": 148.68,
+          "end": 149.36,
+          "probability": 0.9906316995620728
+        },
+        {
+          "word": " really",
+          "start": 149.36,
+          "end": 150.0,
+          "probability": 0.4906819835305214
+        },
+        {
+          "word": " care",
+          "start": 150.0,
+          "end": 150.44,
+          "probability": 0.33625587821006775
+        },
+        {
+          "word": " about",
+          "start": 150.44,
+          "end": 150.94,
+          "probability": 0.987604022026062
+        },
+        {
+          "word": " making",
+          "start": 150.94,
+          "end": 151.34,
+          "probability": 0.8606505990028381
+        },
+        {
+          "word": " it",
+          "start": 151.34,
+          "end": 151.54,
+          "probability": 0.8607690930366516
+        },
+        {
+          "word": " big",
+          "start": 151.54,
+          "end": 151.96,
+          "probability": 0.9278295636177063
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 14698,
+      "start": 152.57999999999998,
+      "end": 154.9,
+      "text": " Or I just wanna go home",
+      "tokens": [
+        50645,
+        1610,
+        286,
+        445,
+        1948,
+        352,
+        1280,
+        50788
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3421061115880166,
+      "compression_ratio": 2.235294117647059,
+      "no_speech_prob": 0.1125388815999031,
+      "words": [
+        {
+          "word": " Or",
+          "start": 152.47,
+          "end": 152.9,
+          "probability": 0.7366102933883667
+        },
+        {
+          "word": " I",
+          "start": 152.9,
+          "end": 153.34,
+          "probability": 0.9983823299407959
+        },
+        {
+          "word": " just",
+          "start": 153.34,
+          "end": 153.58,
+          "probability": 0.999123752117157
+        },
+        {
+          "word": " wanna",
+          "start": 153.58,
+          "end": 153.8,
+          "probability": 0.8778944611549377
+        },
+        {
+          "word": " go",
+          "start": 153.8,
+          "end": 154.06,
+          "probability": 0.9980629086494446
+        },
+        {
+          "word": " home",
+          "start": 154.06,
+          "end": 154.9,
+          "probability": 0.9987002611160278
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 14698,
+      "start": 155.44,
+      "end": 157.46,
+      "text": " Be home with my kids",
+      "tokens": [
+        50788,
+        879,
+        1280,
+        365,
+        452,
+        2301,
+        50934
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3421061115880166,
+      "compression_ratio": 2.235294117647059,
+      "no_speech_prob": 0.1125388815999031,
+      "words": [
+        {
+          "word": " Be",
+          "start": 155.43,
+          "end": 155.86,
+          "probability": 0.9690491557121277
+        },
+        {
+          "word": " home",
+          "start": 155.86,
+          "end": 156.32,
+          "probability": 0.8998380303382874
+        },
+        {
+          "word": " with",
+          "start": 156.32,
+          "end": 156.68,
+          "probability": 0.9901097416877747
+        },
+        {
+          "word": " my",
+          "start": 156.68,
+          "end": 157.08,
+          "probability": 0.9990990161895752
+        },
+        {
+          "word": " cats",
+          "start": 157.08,
+          "end": 157.46,
+          "probability": 0.20706743001937866
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 14698,
+      "start": 158.35999999999999,
+      "end": 160.66,
+      "text": " Be home with my kids",
+      "tokens": [
+        50934,
+        879,
+        1280,
+        365,
+        452,
+        2301,
+        51068
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3421061115880166,
+      "compression_ratio": 2.235294117647059,
+      "no_speech_prob": 0.1125388815999031,
+      "words": [
+        {
+          "word": " Be",
+          "start": 158.29,
+          "end": 158.72,
+          "probability": 0.9631356596946716
+        },
+        {
+          "word": " home",
+          "start": 158.72,
+          "end": 159.14,
+          "probability": 0.9975518584251404
+        },
+        {
+          "word": " with",
+          "start": 159.14,
+          "end": 159.5,
+          "probability": 0.9997486472129822
+        },
+        {
+          "word": " my",
+          "start": 159.5,
+          "end": 159.94,
+          "probability": 0.9977745413780212
+        },
+        {
+          "word": " kids",
+          "start": 159.94,
+          "end": 160.66,
+          "probability": 0.994099497795105
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 14698,
+      "start": 160.66,
+      "end": 163.46,
+      "text": " Be home with my kids",
+      "tokens": [
+        51068,
+        879,
+        1280,
+        365,
+        452,
+        2301,
+        51223
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3421061115880166,
+      "compression_ratio": 2.235294117647059,
+      "no_speech_prob": 0.1125388815999031,
+      "words": [
+        {
+          "word": " Be",
+          "start": 160.66,
+          "end": 161.72,
+          "probability": 0.9964799284934998
+        },
+        {
+          "word": " home",
+          "start": 161.72,
+          "end": 162.1,
+          "probability": 0.9996821880340576
+        },
+        {
+          "word": " with",
+          "start": 162.1,
+          "end": 162.46,
+          "probability": 0.9999237060546875
+        },
+        {
+          "word": " my",
+          "start": 162.46,
+          "end": 162.88,
+          "probability": 0.9995670914649963
+        },
+        {
+          "word": " cats",
+          "start": 162.88,
+          "end": 163.46,
+          "probability": 0.9970690608024597
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 14698,
+      "start": 164.14,
+      "end": 166.44,
+      "text": " Be home with my kids",
+      "tokens": [
+        51223,
+        879,
+        1280,
+        365,
+        452,
+        2301,
+        51358
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3421061115880166,
+      "compression_ratio": 2.235294117647059,
+      "no_speech_prob": 0.1125388815999031,
+      "words": [
+        {
+          "word": " Be",
+          "start": 164.14,
+          "end": 164.66,
+          "probability": 0.9970792531967163
+        },
+        {
+          "word": " home",
+          "start": 164.66,
+          "end": 165.1,
+          "probability": 0.9997096657752991
+        },
+        {
+          "word": " with",
+          "start": 165.1,
+          "end": 165.36,
+          "probability": 0.9998507499694824
+        },
+        {
+          "word": " my",
+          "start": 165.36,
+          "end": 165.72,
+          "probability": 0.9993508458137512
+        },
+        {
+          "word": " kids",
+          "start": 165.72,
+          "end": 166.44,
+          "probability": 0.9996017813682556
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 14698,
+      "start": 168.67999999999998,
+      "end": 170.28,
+      "text": " Be home with my kids",
+      "tokens": [
+        51756,
+        879,
+        1280,
+        365,
+        452,
+        2301,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3421061115880166,
+      "compression_ratio": 2.235294117647059,
+      "no_speech_prob": 0.1125388815999031,
+      "words": [
+        {
+          "word": " Be",
+          "start": 168.67999999999998,
+          "end": 169.54,
+          "probability": 0.9755198359489441
+        },
+        {
+          "word": " home",
+          "start": 169.54,
+          "end": 169.54,
+          "probability": 0.992974042892456
+        },
+        {
+          "word": " with",
+          "start": 169.54,
+          "end": 169.86,
+          "probability": 0.9968265891075134
+        },
+        {
+          "word": " my",
+          "start": 169.86,
+          "end": 169.94,
+          "probability": 0.9722287058830261
+        },
+        {
+          "word": " cats",
+          "start": 169.94,
+          "end": 170.28,
+          "probability": 0.9973325729370117
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 14698,
+      "start": 175.11999999999998,
+      "end": 176.96,
+      "text": " Be home with my kids",
+      "tokens": [
+        51864,
+        879,
+        1280,
+        365,
+        452,
+        2301,
+        51865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3421061115880166,
+      "compression_ratio": 2.235294117647059,
+      "no_speech_prob": 0.1125388815999031,
+      "words": [
+        {
+          "word": " Be",
+          "start": 175.11999999999998,
+          "end": 175.98,
+          "probability": 0.9715850353240967
+        },
+        {
+          "word": " home",
+          "start": 175.98,
+          "end": 176.56,
+          "probability": 0.9944701194763184
+        },
+        {
+          "word": " with",
+          "start": 176.56,
+          "end": 176.88,
+          "probability": 0.9971343278884888
+        },
+        {
+          "word": " my",
+          "start": 176.88,
+          "end": 176.96,
+          "probability": 0.9781051278114319
+        },
+        {
+          "word": " kids",
+          "start": 176.96,
+          "end": 176.96,
+          "probability": 0.9976588487625122
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 17698,
+      "start": 176.98,
+      "end": 178.08,
+      "text": " Be home with my kids",
+      "tokens": [
+        50365,
+        879,
+        1280,
+        365,
+        452,
+        2301,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4099608063697815,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.09652223438024521,
+      "words": [
+        {
+          "word": " Be",
+          "start": 176.98,
+          "end": 177.36,
+          "probability": 0.003989116288721561
+        },
+        {
+          "word": " home",
+          "start": 177.36,
+          "end": 177.64,
+          "probability": 2.849083102773875e-06
+        },
+        {
+          "word": " with",
+          "start": 177.64,
+          "end": 178.08,
+          "probability": 0.28858357667922974
+        },
+        {
+          "word": " my",
+          "start": 178.08,
+          "end": 178.08,
+          "probability": 0.545261800289154
+        },
+        {
+          "word": " kids",
+          "start": 178.08,
+          "end": 178.08,
+          "probability": 0.49984079599380493
+        }
+      ]
+    }
+  ],
+  "language": "Indonesian"
+}
