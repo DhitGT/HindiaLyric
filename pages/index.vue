@@ -14,15 +14,27 @@
     </input> -->
 
     <div class="w-full flex justify-center">
-      <span class="mx-auto text-white text-4xl font-semibold w-full text-center" style="filter: blur(1px);">
-      Hindia - Berapa Harga Satu Pil
-    </span>
+      <select
+        v-model="selectedSong"
+        class="mx-auto w-full text-white text-2xl font-semibold text-center bg-transparent outline-none border-b border-white"
+        style="filter: blur(1px)"
+      >
+        <option disabled value="">Pilih Lagu</option>
+        <option
+          class="bg-black"
+          v-for="(song, i) in songList"
+          :key="i"
+          :value="song"
+        >
+          {{ song }}
+        </option>
+      </select>
     </div>
     <div id="textOverlay" ref="overlay" class="mx-auto">
       <div
         ref="textFitted"
         id="textFitted"
-        class="textFitted mx-auto gap-4 justify-between flex flex-wrap text-justify w-full "
+        class="textFitted mx-auto gap-4 justify-between flex flex-wrap text-justify w-full"
       >
         <div
           class="flex text-white filter-blur-3 blur-3 w-fit gap-4"
@@ -40,17 +52,37 @@
 import { ref, onMounted, watch, nextTick } from "vue";
 const typedWords = ref([]);
 
-const props = defineProps({
-  fileName: {
-    type: String,
-    required: true,
-    default: "hargapil",
-  },
-});
-
 const audio = ref(null);
+let lyricsFetched = false;
 const overlay = ref(null);
 const textFitted = ref(null);
+const fileName = ref("hargapil");
+const selectedSong = ref("Hindia - Berapa Harga Satu Pil");
+const songList = [
+  "Hindia - Berapa Harga Satu Pil",
+  "Hindia - Kids",
+  "Hindia - Everything U Are",
+];
+
+watch(selectedSong, (val) => {
+  switch (val) {
+    case "Hindia - Berapa Harga Satu Pil":
+      fileName.value = "hargapil";
+      break;
+    case "Hindia - Kids":
+      fileName.value = "kids";
+      break;
+    case "Hindia - Everything U Are":
+      fileName.value = "everything";
+      break;
+    default:
+      fileName.value = "hargapil";
+      break;
+  }
+});
+
+
+
 
 const fontSize = ref(50);
 const segments = ref([]);
@@ -60,7 +92,7 @@ let currentSegmentIndex = 0;
 let wordTimeouts = [];
 
 const fetchLyrics = async () => {
-  const res = await fetch(`/lirik/${props.fileName}.json`);
+  const res = await fetch(`/lirik/${fileName.value}.json`);
   const json = await res.json();
 
   segments.value = (json.segments || []).map((segment) => ({
@@ -98,7 +130,6 @@ const playSegmentWords = (words) => {
   });
 };
 
-
 const syncLyric = () => {
   const currentTime = audio.value.currentTime;
 
@@ -115,9 +146,11 @@ const syncLyric = () => {
 const resetLyrics = () => {
   wordTimeouts.forEach(clearTimeout);
   wordTimeouts = [];
+  typedWords.value = []; // <--- pastikan kosong
   currentLine.value = [];
   currentSegmentIndex = 0;
 };
+
 
 const realFontsize = computed(() => {
   return fontSize;
@@ -164,8 +197,26 @@ const resizeTextToFit = () => {
 };
 
 watch(text, resizeTextToFit);
+watch(fileName, async () => {
+  resetLyrics();
+  lyricsFetched = false;
+
+  if (audio.value) {
+    audio.value.pause();
+    audio.value.load(); // reload audio
+    audio.value.currentTime = 0;
+  }
+});
+
 onMounted(() => {
-  fetchLyrics();
+  if (audio.value) {
+    audio.value.addEventListener("play", async () => {
+      if (!lyricsFetched) {
+        await fetchLyrics();
+        lyricsFetched = true;
+      }
+    });
+  }
 });
 </script>
 

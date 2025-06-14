@@ -68,16 +68,10 @@
           "probability": 0.959306538105011
         },
         {
-          "word": " P",
+          "word": " Pill?",
           "start": 16.56,
-          "end": 16.82,
-          "probability": 0.449069082736969
-        },
-        {
-          "word": "ill?",
-          "start": 16.82,
           "end": 17.26,
-          "probability": 0.8761660158634186
+          "probability": 0.449069082736969
         }
       ]
     },
