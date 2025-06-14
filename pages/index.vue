@@ -1,11 +1,16 @@
 <template>
   <div class="p-4 max-w-3xl bg-black mx-auto">
+    <div class="flex w-full my-2 justify-center">
+      <span class="text-white text-2xl opacity-20 " style="filter: blur(1px)">
+        @adtydstn
+      </span>
+    </div>
     <audio
       ref="audio"
       controls
       @timeupdate="syncLyric"
       @seeked="resetLyrics"
-      class="w-full mb-6"
+      class="w-full mb-6 bg-black opacity-80"
     >
       <source :src="`/song/${fileName}.mp3`" type="audio/mpeg" />
       Browser tidak mendukung audio.
