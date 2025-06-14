@@ -15,7 +15,7 @@
 
     <div class="w-full flex justify-center">
       <span class="mx-auto text-white text-4xl font-semibold w-full text-center" style="filter: blur(1px);">
-      Hindia - Kids
+      Hindia - Everything U Are
     </span>
     </div>
     <div id="textOverlay" ref="overlay" class="mx-auto">
@@ -44,7 +44,7 @@ const props = defineProps({
   fileName: {
     type: String,
     required: true,
-    default: "kids",
+    default: "everything",
   },
 });
 
