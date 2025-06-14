@@ -1392,20 +1392,20 @@
       "no_speech_prob": 0.001667459961026907,
       "words": [
         {
-          "word": " Berapa",
+          "word": " Aku",
           "start": 117.26,
           "end": 118.26,
           "probability": 0.4933926831381541
         },
         {
-          "word": " harga",
+          "word": " tak",
           "start": 118.26,
           "end": 119.04,
           "probability": 0.8708436787128448
         },
         {
-          "word": " empati?",
-          "start": 119.04,
+          "word": " tahu",
+          "start": 118.34,
           "end": 119.1,
           "probability": 0.517722038552165
         }
