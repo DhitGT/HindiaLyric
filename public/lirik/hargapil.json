@@ -1,5 +1,5 @@
 {
-  "text": " Intro Berapa harga satu P.O? Berapa banyak yang kau dapat sebelum semua disita jadi barang bukti? Berapa harga tebusan? Berapa banyak dari kami yang enggan karena kau lakukan ini berulang kali? Lalu ku berkaca tanya kau bagaimana itu? Berapa harga empati? Berapa banyak dari kami yang sadar kau lakukan ini karena sesuatu? Di keluarga mu di masa lalu aku tak tahu Berapa harga empati? Berapa besar ruang hatiku yang sadar hidupmu tak seberintung diriku? Semoga aku menampak tanah Aku tak tahu Berapa harga dua manusia? Berapa besar tekanan batin dari kedua belah pihak orang tua? Berapa harga sila ketiga? Terakhir ku dengar hanya berlaku untuk mereka yang tak menyukai sesama Oh... Berapa harga empati? Berapa banyak dari kami yang sadar kau lakukan ini dari dalam hati? Tak terbayangkan besar bebanmu Berapa harga empati? Berapa harga empati? Berapa besar ruang hatiku yang sadar hidupmu tak seberintung diriku? Semoga aku menampak tanah Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Semoga aku menampak tanah Aku tak tahu",
+  "text": " Intro Berapa harga satu P.O? Berapa banyak yang kau dapat sebelum semua disita jadi barang bukti? Berapa harga tebusan? Berapa banyak dari kami yang enggan karena kau lakukan ini berulang kali? Lalu ku berkaca tanya kau bagaimana itu? Berapa harga empati? Berapa banyak dari kami yang sadar kau lakukan ini karena sesuatu? Di keluarga mu di masa lalu aku tak tahu Berapa harga empati? Berapa besar ruang hatiku yang sadar hidupmu tak seberuntung diriku? Semoga aku menapak tanah Aku tak tahu Berapa harga dua manusia? Berapa besar tekanan batin dari kedua belah pihak orang tua? Berapa harga sila ketiga? Terakhir ku dengar hanya berlaku untuk mereka yang tak menyukai sesama Oh... Berapa harga empati? Berapa banyak dari kami yang sadar kau lakukan ini dari dalam hati? Tak terbayangkan besar bebanmu Berapa harga empati? Berapa harga empati? Berapa besar ruang hatiku yang sadar hidupmu tak seberuntung diriku? Semoga aku menapak tanah Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Aku tak tahu Semoga aku menapak tanah Aku tak tahu",
   "segments": [
     {
       "id": 0,
@@ -676,7 +676,7 @@
       "seek": 5912,
       "start": 63.199999999999996,
       "end": 68.42,
-      "text": " Berapa besar ruang hatiku yang sadar hidupmu tak seberintung diriku?",
+      "text": " Berapa besar ruang hatiku yang sadar hidupmu tak seberuntung diriku?",
       "tokens": [
         50569,
         5637,
@@ -756,7 +756,7 @@
           "probability": 0.9852027297019958
         },
         {
-          "word": " seberintung",
+          "word": " seberuntung",
           "start": 66.8,
           "end": 67.72,
           "probability": 0.8150454163551331
@@ -774,7 +774,7 @@
       "seek": 5912,
       "start": 69.36,
       "end": 72.48,
-      "text": " Semoga aku menampak tanah",
+      "text": " Semoga aku menapak tanah",
       "tokens": [
         50877,
         14421,
@@ -805,7 +805,7 @@
           "probability": 0.9978006482124329
         },
         {
-          "word": " menampak",
+          "word": " menapak",
           "start": 70.3,
           "end": 71.76,
           "probability": 0.8779047926266988
@@ -1477,7 +1477,7 @@
       "seek": 11910,
       "start": 122.94,
       "end": 128.42,
-      "text": " Berapa besar ruang hatiku yang sadar hidupmu tak seberintung diriku?",
+      "text": " Berapa besar ruang hatiku yang sadar hidupmu tak seberuntung diriku?",
       "tokens": [
         50557,
         5637,
@@ -1557,7 +1557,7 @@
           "probability": 0.9611341953277588
         },
         {
-          "word": " seberintung",
+          "word": " seberuntung",
           "start": 126.78,
           "end": 127.68,
           "probability": 0.5625901819839783
@@ -1575,7 +1575,7 @@
       "seek": 11910,
       "start": 129.34,
       "end": 132.38,
-      "text": " Semoga aku menampak tanah",
+      "text": " Semoga aku menapak tanah",
       "tokens": [
         50877,
         14421,
@@ -1606,7 +1606,7 @@
           "probability": 0.9971919655799866
         },
         {
-          "word": " menampak",
+          "word": " menapak",
           "start": 130.26,
           "end": 131.78,
           "probability": 0.717543308933576
@@ -2156,7 +2156,7 @@
       "seek": 14908,
       "start": 159.2,
       "end": 162.38,
-      "text": " Semoga aku menampak tanah",
+      "text": " Semoga aku menapak tanah",
       "tokens": [
         50865,
         14421,
@@ -2187,7 +2187,7 @@
           "probability": 0.9950732588768005
         },
         {
-          "word": " menampak",
+          "word": " menapak",
           "start": 160.26,
           "end": 161.76,
           "probability": 0.3795410618185997

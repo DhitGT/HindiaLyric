@@ -15,7 +15,7 @@
 
     <div class="w-full flex justify-center">
       <span class="mx-auto text-white text-4xl font-semibold w-full text-center" style="filter: blur(1px);">
-      Hindia - Berapa Harga 1 Pil
+      Hindia - Berapa Harga Satu Pil
     </span>
     </div>
     <div id="textOverlay" ref="overlay" class="mx-auto">
