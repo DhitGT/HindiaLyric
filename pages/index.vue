@@ -71,7 +71,7 @@ const songList = [
 
 watch(selectedSong, (val) => {
   switch (val) {
-    case "Hindia - Berapa Harga Satu Pil":
+    case "Hindia - Harga Satu Pil":
       fileName.value = "hargapil";
       break;
     case "Hindia - Kids":
@@ -79,6 +79,9 @@ watch(selectedSong, (val) => {
       break;
     case "Hindia - Everything U Are":
       fileName.value = "everything";
+      break;
+    case "Hindia - Berdansalah":
+      fileName.value = "berdansalah";
       break;
     default:
       fileName.value = "hargapil";
