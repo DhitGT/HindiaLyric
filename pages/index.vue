@@ -66,6 +66,7 @@ const selectedSong = ref("Hindia - Berapa Harga Satu Pil");
 const songList = [
   "Hindia - Berapa Harga Satu Pil",
   "Hindia - Kids",
+  "Hindia - Berdansalah",
   "Hindia - Everything U Are",
 ];
 
